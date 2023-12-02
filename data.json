@@ -1,0 +1,5755 @@
+[
+  {
+    "name": "上海",
+    "update_time": 1670981945062,
+    "adcode": "310000",
+    "comment": "因未公布分区死亡和治愈，仅展示累计确诊和现存确诊",
+    "data": {
+      "confirmed_count": 64978,
+      "suspected_count": 393,
+      "cured_count": 64098,
+      "dead_count": 595
+    },
+    "cities": [
+      {
+        "data": {
+          "confirmed_count": 17276,
+          "suspected_count": 0,
+          "cured_count": 16737,
+          "dead_count": 1
+        },
+        "comment": "",
+        "name": "浦东新区",
+        "adcode": "310115",
+        "update_time": 1670981945062
+      },
+      {
+        "data": {
+          "confirmed_count": 4724,
+          "suspected_count": 0,
+          "cured_count": 4501,
+          "dead_count": 1
+        },
+        "comment": "",
+        "name": "徐汇区",
+        "adcode": "310104",
+        "update_time": 1670981945062
+      },
+      {
+        "data": {
+          "confirmed_count": 5491,
+          "suspected_count": 0,
+          "cured_count": 5282,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "闵行区",
+        "adcode": "310112",
+        "update_time": 1670981945062
+      },
+      {
+        "data": {
+          "confirmed_count": 3295,
+          "suspected_count": 0,
+          "cured_count": 3113,
+          "dead_count": 1
+        },
+        "comment": "",
+        "name": "静安区",
+        "adcode": "310106",
+        "update_time": 1670981945062
+      },
+      {
+        "data": {
+          "confirmed_count": 6628,
+          "suspected_count": 0,
+          "cured_count": 6458,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "黄浦区",
+        "adcode": "310101",
+        "update_time": 1670981945062
+      },
+      {
+        "data": {
+          "confirmed_count": 3709,
+          "suspected_count": 0,
+          "cured_count": 3544,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "虹口区",
+        "adcode": "310109",
+        "update_time": 1670981945062
+      },
+      {
+        "data": {
+          "confirmed_count": 2415,
+          "suspected_count": 0,
+          "cured_count": 2282,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "杨浦区",
+        "adcode": "310110",
+        "update_time": 1670981945062
+      },
+      {
+        "data": {
+          "confirmed_count": 3180,
+          "suspected_count": 0,
+          "cured_count": 3068,
+          "dead_count": 1
+        },
+        "comment": "",
+        "name": "宝山区",
+        "adcode": "310113",
+        "update_time": 1670981945062
+      },
+      {
+        "data": {
+          "confirmed_count": 3044,
+          "suspected_count": 0,
+          "cured_count": 2968,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "松江区",
+        "adcode": "310117",
+        "update_time": 1670981945062
+      },
+      {
+        "data": {
+          "confirmed_count": 2426,
+          "suspected_count": 0,
+          "cured_count": 2362,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "长宁区",
+        "adcode": "310105",
+        "update_time": 1670981945062
+      },
+      {
+        "data": {
+          "confirmed_count": 1810,
+          "suspected_count": 0,
+          "cured_count": 1770,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "普陀区",
+        "adcode": "310107",
+        "update_time": 1670981945062
+      },
+      {
+        "data": {
+          "confirmed_count": 2669,
+          "suspected_count": 0,
+          "cured_count": 2629,
+          "dead_count": 2
+        },
+        "comment": "",
+        "name": "嘉定区",
+        "adcode": "310114",
+        "update_time": 1670981945062
+      },
+      {
+        "data": {
+          "confirmed_count": 1350,
+          "suspected_count": 0,
+          "cured_count": 1324,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "青浦区",
+        "adcode": "310118",
+        "update_time": 1670981945062
+      },
+      {
+        "data": {
+          "confirmed_count": 260,
+          "suspected_count": 0,
+          "cured_count": 246,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "奉贤区",
+        "adcode": "310120",
+        "update_time": 1670981945062
+      },
+      {
+        "data": {
+          "confirmed_count": 342,
+          "suspected_count": 0,
+          "cured_count": 337,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "金山区",
+        "adcode": "310116",
+        "update_time": 1670981945062
+      },
+      {
+        "data": {
+          "confirmed_count": 399,
+          "suspected_count": 0,
+          "cured_count": 397,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "崇明区",
+        "adcode": "310151",
+        "update_time": 1670981945062
+      }
+    ]
+  },
+  {
+    "name": "云南",
+    "update_time": 1671010524534,
+    "adcode": "530000",
+    "comment": "云南卫健委未明确部分治愈病例的地市归属，因此各地市的现存确诊存在一定偏差。",
+    "data": {
+      "confirmed_count": 5007,
+      "suspected_count": 23,
+      "cured_count": 4072,
+      "dead_count": 2
+    },
+    "cities": [
+      {
+        "data": {
+          "confirmed_count": 1064,
+          "suspected_count": 0,
+          "cured_count": 66,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "昆明",
+        "adcode": "530100",
+        "update_time": 1671010524534
+      },
+      {
+        "data": {
+          "confirmed_count": 518,
+          "suspected_count": 0,
+          "cured_count": 26,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "昭通",
+        "adcode": "530600",
+        "update_time": 1671010524534
+      },
+      {
+        "data": {
+          "confirmed_count": 525,
+          "suspected_count": 0,
+          "cured_count": 379,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "德宏州",
+        "adcode": "533100",
+        "update_time": 1671010524534
+      },
+      {
+        "data": {
+          "confirmed_count": 185,
+          "suspected_count": 0,
+          "cured_count": 39,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "红河州",
+        "adcode": "532500",
+        "update_time": 1671010524534
+      },
+      {
+        "data": {
+          "confirmed_count": 147,
+          "suspected_count": 0,
+          "cured_count": 13,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "大理州",
+        "adcode": "532900",
+        "update_time": 1671010524534
+      },
+      {
+        "data": {
+          "confirmed_count": 123,
+          "suspected_count": 0,
+          "cured_count": 20,
+          "dead_count": 1
+        },
+        "comment": "",
+        "name": "西双版纳",
+        "adcode": "532800",
+        "update_time": 1671010524534
+      },
+      {
+        "data": {
+          "confirmed_count": 99,
+          "suspected_count": 0,
+          "cured_count": 0,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "迪庆州",
+        "adcode": "533400",
+        "update_time": 1671010524534
+      },
+      {
+        "data": {
+          "confirmed_count": 70,
+          "suspected_count": 0,
+          "cured_count": 11,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "保山",
+        "adcode": "530500",
+        "update_time": 1671010524534
+      },
+      {
+        "data": {
+          "confirmed_count": 57,
+          "suspected_count": 0,
+          "cured_count": 7,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "丽江",
+        "adcode": "530700",
+        "update_time": 1671010524534
+      },
+      {
+        "data": {
+          "confirmed_count": 56,
+          "suspected_count": 0,
+          "cured_count": 15,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "曲靖",
+        "adcode": "530300",
+        "update_time": 1671010524534
+      },
+      {
+        "data": {
+          "confirmed_count": 32,
+          "suspected_count": 0,
+          "cured_count": 4,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "楚雄州",
+        "adcode": "532300",
+        "update_time": 1671010524534
+      },
+      {
+        "data": {
+          "confirmed_count": 37,
+          "suspected_count": 0,
+          "cured_count": 12,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "普洱",
+        "adcode": "530800",
+        "update_time": 1671010524534
+      },
+      {
+        "data": {
+          "confirmed_count": 35,
+          "suspected_count": 0,
+          "cured_count": 13,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "临沧",
+        "adcode": "530900",
+        "update_time": 1671010524534
+      },
+      {
+        "data": {
+          "confirmed_count": 30,
+          "suspected_count": 0,
+          "cured_count": 13,
+          "dead_count": 1
+        },
+        "comment": "",
+        "name": "玉溪",
+        "adcode": "530400",
+        "update_time": 1671010524534
+      },
+      {
+        "data": {
+          "confirmed_count": 28,
+          "suspected_count": 0,
+          "cured_count": 13,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "文山州",
+        "adcode": "532600",
+        "update_time": 1671010524534
+      },
+      {
+        "data": {
+          "confirmed_count": 1,
+          "suspected_count": 0,
+          "cured_count": 0,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "怒江州",
+        "adcode": "533300",
+        "update_time": 1671010524534
+      }
+    ]
+  },
+  {
+    "name": "内蒙古",
+    "update_time": 1671007440842,
+    "adcode": "150000",
+    "comment": "",
+    "data": {
+      "confirmed_count": 8237,
+      "suspected_count": 35,
+      "cured_count": 7962,
+      "dead_count": 1
+    },
+    "cities": [
+      {
+        "data": {
+          "confirmed_count": 4682,
+          "suspected_count": 0,
+          "cured_count": 4431,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "呼和浩特",
+        "adcode": "150100",
+        "update_time": 1671007440842
+      },
+      {
+        "data": {
+          "confirmed_count": 553,
+          "suspected_count": 0,
+          "cured_count": 507,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "赤峰",
+        "adcode": "150400",
+        "update_time": 1671007440842
+      },
+      {
+        "data": {
+          "confirmed_count": 471,
+          "suspected_count": 0,
+          "cured_count": 425,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "鄂尔多斯",
+        "adcode": "150600",
+        "update_time": 1671007440842
+      },
+      {
+        "data": {
+          "confirmed_count": 841,
+          "suspected_count": 0,
+          "cured_count": 808,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "呼伦贝尔",
+        "adcode": "150700",
+        "update_time": 1671007440842
+      },
+      {
+        "data": {
+          "confirmed_count": 215,
+          "suspected_count": 0,
+          "cured_count": 213,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "包头",
+        "adcode": "150200",
+        "update_time": 1671007440842
+      },
+      {
+        "data": {
+          "confirmed_count": 444,
+          "suspected_count": 0,
+          "cured_count": 444,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "锡林郭勒盟",
+        "adcode": "152500",
+        "update_time": 1671007440842
+      },
+      {
+        "data": {
+          "confirmed_count": 177,
+          "suspected_count": 0,
+          "cured_count": 177,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "阿拉善盟",
+        "adcode": "152900",
+        "update_time": 1671007440842
+      },
+      {
+        "data": {
+          "confirmed_count": 101,
+          "suspected_count": 0,
+          "cured_count": 101,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "乌兰察布",
+        "adcode": "150900",
+        "update_time": 1671007440842
+      },
+      {
+        "data": {
+          "confirmed_count": 46,
+          "suspected_count": 0,
+          "cured_count": 45,
+          "dead_count": 1
+        },
+        "comment": "",
+        "name": "巴彦淖尔",
+        "adcode": "150800",
+        "update_time": 1671007440842
+      },
+      {
+        "data": {
+          "confirmed_count": 40,
+          "suspected_count": 0,
+          "cured_count": 40,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "兴安盟",
+        "adcode": "152200",
+        "update_time": 1671007440842
+      },
+      {
+        "data": {
+          "confirmed_count": 33,
+          "suspected_count": 0,
+          "cured_count": 33,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "通辽",
+        "adcode": "150500",
+        "update_time": 1671007440842
+      },
+      {
+        "data": {
+          "confirmed_count": 21,
+          "suspected_count": 0,
+          "cured_count": 21,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "乌海市",
+        "adcode": "150300",
+        "update_time": 1671007440842
+      }
+    ]
+  },
+  {
+    "name": "北京",
+    "update_time": 1671006229445,
+    "adcode": "110000",
+    "comment": "北京卫健委未明确大部分治愈与死亡病例的分区归属，因此北京市下辖分区的现存确诊暂无法获取。",
+    "data": {
+      "confirmed_count": 25249,
+      "suspected_count": 164,
+      "cured_count": 14283,
+      "dead_count": 13
+    },
+    "cities": [
+      {
+        "data": {
+          "confirmed_count": 5675,
+          "suspected_count": 0,
+          "cured_count": 80,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "朝阳区",
+        "adcode": "110105",
+        "update_time": 1671006229445
+      },
+      {
+        "data": {
+          "confirmed_count": 2118,
+          "suspected_count": 0,
+          "cured_count": 82,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "海淀区",
+        "adcode": "110108",
+        "update_time": 1671006229445
+      },
+      {
+        "data": {
+          "confirmed_count": 1841,
+          "suspected_count": 0,
+          "cured_count": 20,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "通州区",
+        "adcode": "110112",
+        "update_time": 1671006229445
+      },
+      {
+        "data": {
+          "confirmed_count": 1379,
+          "suspected_count": 0,
+          "cured_count": 50,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "昌平区",
+        "adcode": "110114",
+        "update_time": 1671006229445
+      },
+      {
+        "data": {
+          "confirmed_count": 1586,
+          "suspected_count": 0,
+          "cured_count": 286,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "丰台区",
+        "adcode": "110106",
+        "update_time": 1671006229445
+      },
+      {
+        "data": {
+          "confirmed_count": 1241,
+          "suspected_count": 0,
+          "cured_count": 19,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "东城区",
+        "adcode": "110101",
+        "update_time": 1671006229445
+      },
+      {
+        "data": {
+          "confirmed_count": 875,
+          "suspected_count": 0,
+          "cured_count": 15,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "石景山区",
+        "adcode": "110107",
+        "update_time": 1671006229445
+      },
+      {
+        "data": {
+          "confirmed_count": 864,
+          "suspected_count": 0,
+          "cured_count": 59,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "西城区",
+        "adcode": "110102",
+        "update_time": 1671006229445
+      },
+      {
+        "data": {
+          "confirmed_count": 767,
+          "suspected_count": 0,
+          "cured_count": 45,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "顺义区",
+        "adcode": "110113",
+        "update_time": 1671006229445
+      },
+      {
+        "data": {
+          "confirmed_count": 580,
+          "suspected_count": 0,
+          "cured_count": 20,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "房山区",
+        "adcode": "110111",
+        "update_time": 1671006229445
+      },
+      {
+        "data": {
+          "confirmed_count": 590,
+          "suspected_count": 0,
+          "cured_count": 134,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "大兴区",
+        "adcode": "110115",
+        "update_time": 1671006229445
+      },
+      {
+        "data": {
+          "confirmed_count": 452,
+          "suspected_count": 0,
+          "cured_count": 5,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "门头沟区",
+        "adcode": "110109",
+        "update_time": 1671006229445
+      },
+      {
+        "data": {
+          "confirmed_count": 378,
+          "suspected_count": 0,
+          "cured_count": 7,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "密云区",
+        "adcode": "110118",
+        "update_time": 1671006229445
+      },
+      {
+        "data": {
+          "confirmed_count": 324,
+          "suspected_count": 0,
+          "cured_count": 0,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "平谷区",
+        "adcode": "110117",
+        "update_time": 1671006229445
+      },
+      {
+        "data": {
+          "confirmed_count": 306,
+          "suspected_count": 0,
+          "cured_count": 1,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "延庆区",
+        "adcode": "110119",
+        "update_time": 1671006229445
+      },
+      {
+        "data": {
+          "confirmed_count": 305,
+          "suspected_count": 0,
+          "cured_count": 8,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "怀柔区",
+        "adcode": "110116",
+        "update_time": 1671006229445
+      }
+    ]
+  },
+  {
+    "name": "台湾",
+    "update_time": 1670923782041,
+    "adcode": "710000",
+    "comment": "",
+    "data": {
+      "confirmed_count": 8498195,
+      "suspected_count": 485,
+      "cured_count": 13742,
+      "dead_count": 14722
+    },
+    "cities": []
+  },
+  {
+    "name": "吉林",
+    "update_time": 1671007719550,
+    "adcode": "220000",
+    "comment": "",
+    "data": {
+      "confirmed_count": 40481,
+      "suspected_count": 19,
+      "cured_count": 40422,
+      "dead_count": 5
+    },
+    "cities": [
+      {
+        "data": {
+          "confirmed_count": 25260,
+          "suspected_count": 1,
+          "cured_count": 25113,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "长春",
+        "adcode": "220100",
+        "update_time": 1671007719550
+      },
+      {
+        "data": {
+          "confirmed_count": 101,
+          "suspected_count": 0,
+          "cured_count": 86,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "松原",
+        "adcode": "220700",
+        "update_time": 1671007719550
+      },
+      {
+        "data": {
+          "confirmed_count": 209,
+          "suspected_count": 1,
+          "cured_count": 195,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "延边",
+        "adcode": "222400",
+        "update_time": 1671007719550
+      },
+      {
+        "data": {
+          "confirmed_count": 264,
+          "suspected_count": 0,
+          "cured_count": 258,
+          "dead_count": 1
+        },
+        "comment": "",
+        "name": "四平",
+        "adcode": "220300",
+        "update_time": 1671007719550
+      },
+      {
+        "data": {
+          "confirmed_count": 26,
+          "suspected_count": 0,
+          "cured_count": 25,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "白山",
+        "adcode": "220600",
+        "update_time": 1671007719550
+      },
+      {
+        "data": {
+          "confirmed_count": 14114,
+          "suspected_count": 12,
+          "cured_count": 14111,
+          "dead_count": 3
+        },
+        "comment": "",
+        "name": "吉林市",
+        "adcode": "220200",
+        "update_time": 1671007719550
+      },
+      {
+        "data": {
+          "confirmed_count": 314,
+          "suspected_count": 0,
+          "cured_count": 313,
+          "dead_count": 1
+        },
+        "comment": "",
+        "name": "通化",
+        "adcode": "220500",
+        "update_time": 1671007719550
+      },
+      {
+        "data": {
+          "confirmed_count": 148,
+          "suspected_count": 0,
+          "cured_count": 148,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "白城",
+        "adcode": "220800",
+        "update_time": 1671007719550
+      },
+      {
+        "data": {
+          "confirmed_count": 9,
+          "suspected_count": 0,
+          "cured_count": 9,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "辽源",
+        "adcode": "220400",
+        "update_time": 1671007719550
+      },
+      {
+        "data": {
+          "confirmed_count": 6,
+          "suspected_count": 0,
+          "cured_count": 6,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "公主岭",
+        "adcode": "220381",
+        "update_time": 1671007719550
+      },
+      {
+        "data": {
+          "confirmed_count": 2,
+          "suspected_count": 0,
+          "cured_count": 2,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "梅河口",
+        "adcode": "220581",
+        "update_time": 1671007719550
+      }
+    ]
+  },
+  {
+    "name": "四川",
+    "update_time": 1670984256962,
+    "adcode": "510000",
+    "comment": "",
+    "data": {
+      "confirmed_count": 11315,
+      "suspected_count": 22,
+      "cured_count": 9929,
+      "dead_count": 5
+    },
+    "cities": [
+      {
+        "data": {
+          "confirmed_count": 7173,
+          "suspected_count": 0,
+          "cured_count": 3644,
+          "dead_count": 4
+        },
+        "comment": "",
+        "name": "成都",
+        "adcode": "510100",
+        "update_time": 1670984256962
+      },
+      {
+        "data": {
+          "confirmed_count": 385,
+          "suspected_count": 0,
+          "cured_count": 22,
+          "dead_count": 1
+        },
+        "comment": "",
+        "name": "内江",
+        "adcode": "511000",
+        "update_time": 1670984256962
+      },
+      {
+        "data": {
+          "confirmed_count": 321,
+          "suspected_count": 0,
+          "cured_count": 13,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "宜宾",
+        "adcode": "511500",
+        "update_time": 1670984256962
+      },
+      {
+        "data": {
+          "confirmed_count": 266,
+          "suspected_count": 0,
+          "cured_count": 21,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "德阳",
+        "adcode": "510600",
+        "update_time": 1670984256962
+      },
+      {
+        "data": {
+          "confirmed_count": 220,
+          "suspected_count": 0,
+          "cured_count": 1,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "阿坝州",
+        "adcode": "513200",
+        "update_time": 1670984256962
+      },
+      {
+        "data": {
+          "confirmed_count": 229,
+          "suspected_count": 0,
+          "cured_count": 23,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "绵阳",
+        "adcode": "510700",
+        "update_time": 1670984256962
+      },
+      {
+        "data": {
+          "confirmed_count": 171,
+          "suspected_count": 0,
+          "cured_count": 22,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "遂宁",
+        "adcode": "510900",
+        "update_time": 1670984256962
+      },
+      {
+        "data": {
+          "confirmed_count": 156,
+          "suspected_count": 0,
+          "cured_count": 25,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "泸州",
+        "adcode": "510500",
+        "update_time": 1670984256962
+      },
+      {
+        "data": {
+          "confirmed_count": 299,
+          "suspected_count": 0,
+          "cured_count": 174,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "广安",
+        "adcode": "511600",
+        "update_time": 1670984256962
+      },
+      {
+        "data": {
+          "confirmed_count": 125,
+          "suspected_count": 1,
+          "cured_count": 15,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "凉山州",
+        "adcode": "513400",
+        "update_time": 1670984256962
+      },
+      {
+        "data": {
+          "confirmed_count": 112,
+          "suspected_count": 0,
+          "cured_count": 9,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "眉山",
+        "adcode": "511400",
+        "update_time": 1670984256962
+      },
+      {
+        "data": {
+          "confirmed_count": 98,
+          "suspected_count": 0,
+          "cured_count": 12,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "乐山",
+        "adcode": "511100",
+        "update_time": 1670984256962
+      },
+      {
+        "data": {
+          "confirmed_count": 113,
+          "suspected_count": 0,
+          "cured_count": 35,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "巴中",
+        "adcode": "511900",
+        "update_time": 1670984256962
+      },
+      {
+        "data": {
+          "confirmed_count": 82,
+          "suspected_count": 0,
+          "cured_count": 40,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "南充",
+        "adcode": "511300",
+        "update_time": 1670984256962
+      },
+      {
+        "data": {
+          "confirmed_count": 52,
+          "suspected_count": 0,
+          "cured_count": 10,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "广元",
+        "adcode": "510800",
+        "update_time": 1670984256962
+      },
+      {
+        "data": {
+          "confirmed_count": 48,
+          "suspected_count": 0,
+          "cured_count": 6,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "资阳",
+        "adcode": "512000",
+        "update_time": 1670984256962
+      },
+      {
+        "data": {
+          "confirmed_count": 35,
+          "suspected_count": 0,
+          "cured_count": 10,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "自贡",
+        "adcode": "510300",
+        "update_time": 1670984256962
+      },
+      {
+        "data": {
+          "confirmed_count": 102,
+          "suspected_count": 0,
+          "cured_count": 78,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "甘孜州",
+        "adcode": "513300",
+        "update_time": 1670984256962
+      },
+      {
+        "data": {
+          "confirmed_count": 21,
+          "suspected_count": 0,
+          "cured_count": 8,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "雅安",
+        "adcode": "511800",
+        "update_time": 1670984256962
+      },
+      {
+        "data": {
+          "confirmed_count": 21,
+          "suspected_count": 0,
+          "cured_count": 16,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "攀枝花",
+        "adcode": "510400",
+        "update_time": 1670984256962
+      },
+      {
+        "data": {
+          "confirmed_count": 49,
+          "suspected_count": 0,
+          "cured_count": 45,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "达州",
+        "adcode": "511700",
+        "update_time": 1670984256962
+      }
+    ]
+  },
+  {
+    "name": "天津",
+    "update_time": 1670918930339,
+    "adcode": "120000",
+    "comment": "",
+    "data": {
+      "confirmed_count": 2627,
+      "suspected_count": 50,
+      "cured_count": 2566,
+      "dead_count": 3
+    },
+    "cities": [
+      {
+        "data": {
+          "confirmed_count": 262,
+          "suspected_count": 0,
+          "cured_count": 206,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "西青区",
+        "adcode": "120111",
+        "update_time": 1670918930339
+      },
+      {
+        "data": {
+          "confirmed_count": 130,
+          "suspected_count": 0,
+          "cured_count": 86,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "滨海新区",
+        "adcode": "120116",
+        "update_time": 1670918930339
+      },
+      {
+        "data": {
+          "confirmed_count": 62,
+          "suspected_count": 0,
+          "cured_count": 28,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "河西区",
+        "adcode": "120103",
+        "update_time": 1670918930339
+      },
+      {
+        "data": {
+          "confirmed_count": 127,
+          "suspected_count": 0,
+          "cured_count": 95,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "河北区",
+        "adcode": "120105",
+        "update_time": 1670918930339
+      },
+      {
+        "data": {
+          "confirmed_count": 59,
+          "suspected_count": 0,
+          "cured_count": 33,
+          "dead_count": 1
+        },
+        "comment": "",
+        "name": "河东区",
+        "adcode": "120102",
+        "update_time": 1670918930339
+      },
+      {
+        "data": {
+          "confirmed_count": 32,
+          "suspected_count": 0,
+          "cured_count": 11,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "静海区",
+        "adcode": "120118",
+        "update_time": 1670918930339
+      },
+      {
+        "data": {
+          "confirmed_count": 41,
+          "suspected_count": 0,
+          "cured_count": 23,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "北辰区",
+        "adcode": "120113",
+        "update_time": 1670918930339
+      },
+      {
+        "data": {
+          "confirmed_count": 378,
+          "suspected_count": 0,
+          "cured_count": 364,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "津南区",
+        "adcode": "120112",
+        "update_time": 1670918930339
+      },
+      {
+        "data": {
+          "confirmed_count": 46,
+          "suspected_count": 0,
+          "cured_count": 32,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "东丽区",
+        "adcode": "120110",
+        "update_time": 1670918930339
+      },
+      {
+        "data": {
+          "confirmed_count": 50,
+          "suspected_count": 0,
+          "cured_count": 37,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "南开区",
+        "adcode": "120104",
+        "update_time": 1670918930339
+      },
+      {
+        "data": {
+          "confirmed_count": 18,
+          "suspected_count": 0,
+          "cured_count": 6,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "宁河区",
+        "adcode": "120117",
+        "update_time": 1670918930339
+      },
+      {
+        "data": {
+          "confirmed_count": 16,
+          "suspected_count": 0,
+          "cured_count": 6,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "和平区",
+        "adcode": "120101",
+        "update_time": 1670918930339
+      },
+      {
+        "data": {
+          "confirmed_count": 71,
+          "suspected_count": 0,
+          "cured_count": 64,
+          "dead_count": 2
+        },
+        "comment": "",
+        "name": "宝坻区",
+        "adcode": "120115",
+        "update_time": 1670918930339
+      },
+      {
+        "data": {
+          "confirmed_count": 40,
+          "suspected_count": 0,
+          "cured_count": 36,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "红桥区",
+        "adcode": "120106",
+        "update_time": 1670918930339
+      },
+      {
+        "data": {
+          "confirmed_count": 152,
+          "suspected_count": 0,
+          "cured_count": 151,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "武清区",
+        "adcode": "120114",
+        "update_time": 1670918930339
+      },
+      {
+        "data": {
+          "confirmed_count": 1,
+          "suspected_count": 0,
+          "cured_count": 0,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "蓟州区",
+        "adcode": "120119",
+        "update_time": 1670918930339
+      }
+    ]
+  },
+  {
+    "name": "宁夏",
+    "update_time": 1671010524534,
+    "adcode": "640000",
+    "comment": "",
+    "data": {
+      "confirmed_count": 238,
+      "suspected_count": 0,
+      "cured_count": 237,
+      "dead_count": 0
+    },
+    "cities": [
+      {
+        "data": {
+          "confirmed_count": 96,
+          "suspected_count": 0,
+          "cured_count": 95,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "银川",
+        "adcode": "640100",
+        "update_time": 1671010524534
+      },
+      {
+        "data": {
+          "confirmed_count": 80,
+          "suspected_count": 0,
+          "cured_count": 80,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "中卫",
+        "adcode": "640500",
+        "update_time": 1671010524534
+      },
+      {
+        "data": {
+          "confirmed_count": 50,
+          "suspected_count": 0,
+          "cured_count": 50,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "吴忠",
+        "adcode": "640300",
+        "update_time": 1671010524534
+      },
+      {
+        "data": {
+          "confirmed_count": 9,
+          "suspected_count": 0,
+          "cured_count": 9,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "固原",
+        "adcode": "640400",
+        "update_time": 1671010524534
+      },
+      {
+        "data": {
+          "confirmed_count": 2,
+          "suspected_count": 0,
+          "cured_count": 2,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "石嘴山",
+        "adcode": "640200",
+        "update_time": 1671010524534
+      }
+    ]
+  },
+  {
+    "name": "安徽",
+    "update_time": 1670900601973,
+    "adcode": "340000",
+    "comment": "",
+    "data": {
+      "confirmed_count": 1699,
+      "suspected_count": 2,
+      "cured_count": 1654,
+      "dead_count": 6
+    },
+    "cities": [
+      {
+        "data": {
+          "confirmed_count": 85,
+          "suspected_count": 0,
+          "cured_count": 9,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "宣城",
+        "adcode": "341800",
+        "update_time": 1670900601973
+      },
+      {
+        "data": {
+          "confirmed_count": 231,
+          "suspected_count": 0,
+          "cured_count": 206,
+          "dead_count": 1
+        },
+        "comment": "",
+        "name": "合肥",
+        "adcode": "340100",
+        "update_time": 1670900601973
+      },
+      {
+        "data": {
+          "confirmed_count": 45,
+          "suspected_count": 0,
+          "cured_count": 33,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "铜陵",
+        "adcode": "340700",
+        "update_time": 1670900601973
+      },
+      {
+        "data": {
+          "confirmed_count": 47,
+          "suspected_count": 0,
+          "cured_count": 41,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "马鞍山",
+        "adcode": "340500",
+        "update_time": 1670900601973
+      },
+      {
+        "data": {
+          "confirmed_count": 221,
+          "suspected_count": 0,
+          "cured_count": 212,
+          "dead_count": 5
+        },
+        "comment": "",
+        "name": "蚌埠",
+        "adcode": "340300",
+        "update_time": 1670900601973
+      },
+      {
+        "data": {
+          "confirmed_count": 91,
+          "suspected_count": 0,
+          "cured_count": 87,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "安庆",
+        "adcode": "340800",
+        "update_time": 1670900601973
+      },
+      {
+        "data": {
+          "confirmed_count": 44,
+          "suspected_count": 0,
+          "cured_count": 40,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "芜湖",
+        "adcode": "340200",
+        "update_time": 1670900601973
+      },
+      {
+        "data": {
+          "confirmed_count": 24,
+          "suspected_count": 0,
+          "cured_count": 21,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "池州",
+        "adcode": "341700",
+        "update_time": 1670900601973
+      },
+      {
+        "data": {
+          "confirmed_count": 50,
+          "suspected_count": 0,
+          "cured_count": 48,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "淮北",
+        "adcode": "340600",
+        "update_time": 1670900601973
+      },
+      {
+        "data": {
+          "confirmed_count": 423,
+          "suspected_count": 0,
+          "cured_count": 423,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "宿州",
+        "adcode": "341300",
+        "update_time": 1670900601973
+      },
+      {
+        "data": {
+          "confirmed_count": 168,
+          "suspected_count": 0,
+          "cured_count": 168,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "阜阳",
+        "adcode": "341200",
+        "update_time": 1670900601973
+      },
+      {
+        "data": {
+          "confirmed_count": 108,
+          "suspected_count": 0,
+          "cured_count": 108,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "亳州",
+        "adcode": "341600",
+        "update_time": 1670900601973
+      },
+      {
+        "data": {
+          "confirmed_count": 84,
+          "suspected_count": 0,
+          "cured_count": 84,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "六安",
+        "adcode": "341500",
+        "update_time": 1670900601973
+      },
+      {
+        "data": {
+          "confirmed_count": 37,
+          "suspected_count": 0,
+          "cured_count": 37,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "淮南",
+        "adcode": "340400",
+        "update_time": 1670900601973
+      },
+      {
+        "data": {
+          "confirmed_count": 15,
+          "suspected_count": 0,
+          "cured_count": 15,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "滁州",
+        "adcode": "341100",
+        "update_time": 1670900601973
+      },
+      {
+        "data": {
+          "confirmed_count": 9,
+          "suspected_count": 0,
+          "cured_count": 9,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "黄山",
+        "adcode": "341000",
+        "update_time": 1670900601973
+      }
+    ]
+  },
+  {
+    "name": "山东",
+    "update_time": 1671009366565,
+    "adcode": "370000",
+    "comment": "",
+    "data": {
+      "confirmed_count": 4564,
+      "suspected_count": 14,
+      "cured_count": 4131,
+      "dead_count": 8
+    },
+    "cities": [
+      {
+        "data": {
+          "confirmed_count": 832,
+          "suspected_count": 0,
+          "cured_count": 532,
+          "dead_count": 1
+        },
+        "comment": "",
+        "name": "济南",
+        "adcode": "370100",
+        "update_time": 1671009366565
+      },
+      {
+        "data": {
+          "confirmed_count": 1368,
+          "suspected_count": 0,
+          "cured_count": 1346,
+          "dead_count": 1
+        },
+        "comment": "",
+        "name": "青岛",
+        "adcode": "370200",
+        "update_time": 1671009366565
+      },
+      {
+        "data": {
+          "confirmed_count": 159,
+          "suspected_count": 0,
+          "cured_count": 138,
+          "dead_count": 1
+        },
+        "comment": "",
+        "name": "威海",
+        "adcode": "371000",
+        "update_time": 1671009366565
+      },
+      {
+        "data": {
+          "confirmed_count": 121,
+          "suspected_count": 0,
+          "cured_count": 100,
+          "dead_count": 1
+        },
+        "comment": "",
+        "name": "淄博",
+        "adcode": "370300",
+        "update_time": 1671009366565
+      },
+      {
+        "data": {
+          "confirmed_count": 246,
+          "suspected_count": 0,
+          "cured_count": 229,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "滨州",
+        "adcode": "371600",
+        "update_time": 1671009366565
+      },
+      {
+        "data": {
+          "confirmed_count": 11,
+          "suspected_count": 0,
+          "cured_count": 3,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "东营",
+        "adcode": "370500",
+        "update_time": 1671009366565
+      },
+      {
+        "data": {
+          "confirmed_count": 144,
+          "suspected_count": 0,
+          "cured_count": 135,
+          "dead_count": 2
+        },
+        "comment": "",
+        "name": "泰安",
+        "adcode": "370900",
+        "update_time": 1671009366565
+      },
+      {
+        "data": {
+          "confirmed_count": 112,
+          "suspected_count": 0,
+          "cured_count": 105,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "聊城",
+        "adcode": "371500",
+        "update_time": 1671009366565
+      },
+      {
+        "data": {
+          "confirmed_count": 42,
+          "suspected_count": 0,
+          "cured_count": 38,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "日照",
+        "adcode": "371100",
+        "update_time": 1671009366565
+      },
+      {
+        "data": {
+          "confirmed_count": 136,
+          "suspected_count": 0,
+          "cured_count": 134,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "临沂",
+        "adcode": "371300",
+        "update_time": 1671009366565
+      },
+      {
+        "data": {
+          "confirmed_count": 104,
+          "suspected_count": 0,
+          "cured_count": 102,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "烟台",
+        "adcode": "370600",
+        "update_time": 1671009366565
+      },
+      {
+        "data": {
+          "confirmed_count": 55,
+          "suspected_count": 0,
+          "cured_count": 54,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "潍坊",
+        "adcode": "370700",
+        "update_time": 1671009366565
+      },
+      {
+        "data": {
+          "confirmed_count": 305,
+          "suspected_count": 0,
+          "cured_count": 305,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "济宁",
+        "adcode": "370800",
+        "update_time": 1671009366565
+      },
+      {
+        "data": {
+          "confirmed_count": 119,
+          "suspected_count": 0,
+          "cured_count": 117,
+          "dead_count": 2
+        },
+        "comment": "",
+        "name": "德州",
+        "adcode": "371400",
+        "update_time": 1671009366565
+      },
+      {
+        "data": {
+          "confirmed_count": 68,
+          "suspected_count": 0,
+          "cured_count": 68,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "枣庄",
+        "adcode": "370400",
+        "update_time": 1671009366565
+      },
+      {
+        "data": {
+          "confirmed_count": 42,
+          "suspected_count": 0,
+          "cured_count": 42,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "菏泽",
+        "adcode": "371700",
+        "update_time": 1671009366565
+      }
+    ]
+  },
+  {
+    "name": "山西",
+    "update_time": 1671006746139,
+    "adcode": "140000",
+    "comment": "",
+    "data": {
+      "confirmed_count": 5006,
+      "suspected_count": 64,
+      "cured_count": 3882,
+      "dead_count": 0
+    },
+    "cities": [
+      {
+        "data": {
+          "confirmed_count": 1354,
+          "suspected_count": 0,
+          "cured_count": 815,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "大同",
+        "adcode": "140200",
+        "update_time": 1671006746139
+      },
+      {
+        "data": {
+          "confirmed_count": 326,
+          "suspected_count": 0,
+          "cured_count": 78,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "晋城",
+        "adcode": "140500",
+        "update_time": 1671006746139
+      },
+      {
+        "data": {
+          "confirmed_count": 753,
+          "suspected_count": 0,
+          "cured_count": 655,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "太原",
+        "adcode": "140100",
+        "update_time": 1671006746139
+      },
+      {
+        "data": {
+          "confirmed_count": 299,
+          "suspected_count": 0,
+          "cured_count": 237,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "临汾",
+        "adcode": "141000",
+        "update_time": 1671006746139
+      },
+      {
+        "data": {
+          "confirmed_count": 120,
+          "suspected_count": 0,
+          "cured_count": 70,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "长治",
+        "adcode": "140400",
+        "update_time": 1671006746139
+      },
+      {
+        "data": {
+          "confirmed_count": 399,
+          "suspected_count": 0,
+          "cured_count": 357,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "吕梁",
+        "adcode": "141100",
+        "update_time": 1671006746139
+      },
+      {
+        "data": {
+          "confirmed_count": 526,
+          "suspected_count": 0,
+          "cured_count": 487,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "阳泉",
+        "adcode": "140300",
+        "update_time": 1671006746139
+      },
+      {
+        "data": {
+          "confirmed_count": 501,
+          "suspected_count": 0,
+          "cured_count": 475,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "朔州",
+        "adcode": "140600",
+        "update_time": 1671006746139
+      },
+      {
+        "data": {
+          "confirmed_count": 296,
+          "suspected_count": 0,
+          "cured_count": 285,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "运城",
+        "adcode": "140800",
+        "update_time": 1671006746139
+      },
+      {
+        "data": {
+          "confirmed_count": 140,
+          "suspected_count": 0,
+          "cured_count": 132,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "忻州",
+        "adcode": "140900",
+        "update_time": 1671006746139
+      },
+      {
+        "data": {
+          "confirmed_count": 147,
+          "suspected_count": 0,
+          "cured_count": 146,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "晋中",
+        "adcode": "140700",
+        "update_time": 1671006746139
+      }
+    ]
+  },
+  {
+    "name": "广东",
+    "update_time": 1671010010975,
+    "adcode": "440000",
+    "comment": "广东卫健委未明确部分治愈病例的地市归属，因此各地市的现存确诊存在一定偏差。",
+    "data": {
+      "confirmed_count": 55674,
+      "suspected_count": 25,
+      "cured_count": 46123,
+      "dead_count": 8
+    },
+    "cities": [
+      {
+        "data": {
+          "confirmed_count": 38142,
+          "suspected_count": 3,
+          "cured_count": 20348,
+          "dead_count": 1
+        },
+        "comment": "",
+        "name": "广州",
+        "adcode": "440100",
+        "update_time": 1671010010975
+      },
+      {
+        "data": {
+          "confirmed_count": 6399,
+          "suspected_count": 3,
+          "cured_count": 4899,
+          "dead_count": 3
+        },
+        "comment": "",
+        "name": "深圳",
+        "adcode": "440300",
+        "update_time": 1671010010975
+      },
+      {
+        "data": {
+          "confirmed_count": 1398,
+          "suspected_count": 2,
+          "cured_count": 142,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "湛江",
+        "adcode": "440800",
+        "update_time": 1671010010975
+      },
+      {
+        "data": {
+          "confirmed_count": 1448,
+          "suspected_count": 1,
+          "cured_count": 415,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "佛山",
+        "adcode": "440600",
+        "update_time": 1671010010975
+      },
+      {
+        "data": {
+          "confirmed_count": 862,
+          "suspected_count": 0,
+          "cured_count": 52,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "茂名",
+        "adcode": "440900",
+        "update_time": 1671010010975
+      },
+      {
+        "data": {
+          "confirmed_count": 737,
+          "suspected_count": 0,
+          "cured_count": 31,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "汕头",
+        "adcode": "440500",
+        "update_time": 1671010010975
+      },
+      {
+        "data": {
+          "confirmed_count": 739,
+          "suspected_count": 0,
+          "cured_count": 155,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "中山",
+        "adcode": "442000",
+        "update_time": 1671010010975
+      },
+      {
+        "data": {
+          "confirmed_count": 693,
+          "suspected_count": 0,
+          "cured_count": 113,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "江门",
+        "adcode": "440700",
+        "update_time": 1671010010975
+      },
+      {
+        "data": {
+          "confirmed_count": 685,
+          "suspected_count": 0,
+          "cured_count": 113,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "惠州",
+        "adcode": "441300",
+        "update_time": 1671010010975
+      },
+      {
+        "data": {
+          "confirmed_count": 573,
+          "suspected_count": 1,
+          "cured_count": 54,
+          "dead_count": 1
+        },
+        "comment": "",
+        "name": "肇庆",
+        "adcode": "441200",
+        "update_time": 1671010010975
+      },
+      {
+        "data": {
+          "confirmed_count": 481,
+          "suspected_count": 0,
+          "cured_count": 53,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "阳江",
+        "adcode": "441700",
+        "update_time": 1671010010975
+      },
+      {
+        "data": {
+          "confirmed_count": 859,
+          "suspected_count": 2,
+          "cured_count": 436,
+          "dead_count": 1
+        },
+        "comment": "",
+        "name": "珠海",
+        "adcode": "440400",
+        "update_time": 1671010010975
+      },
+      {
+        "data": {
+          "confirmed_count": 908,
+          "suspected_count": 1,
+          "cured_count": 495,
+          "dead_count": 1
+        },
+        "comment": "",
+        "name": "东莞",
+        "adcode": "441900",
+        "update_time": 1671010010975
+      },
+      {
+        "data": {
+          "confirmed_count": 397,
+          "suspected_count": 0,
+          "cured_count": 12,
+          "dead_count": 1
+        },
+        "comment": "",
+        "name": "韶关",
+        "adcode": "440200",
+        "update_time": 1671010010975
+      },
+      {
+        "data": {
+          "confirmed_count": 401,
+          "suspected_count": 0,
+          "cured_count": 24,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "清远",
+        "adcode": "441800",
+        "update_time": 1671010010975
+      },
+      {
+        "data": {
+          "confirmed_count": 357,
+          "suspected_count": 0,
+          "cured_count": 7,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "潮州",
+        "adcode": "445100",
+        "update_time": 1671010010975
+      },
+      {
+        "data": {
+          "confirmed_count": 267,
+          "suspected_count": 0,
+          "cured_count": 7,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "云浮",
+        "adcode": "445300",
+        "update_time": 1671010010975
+      },
+      {
+        "data": {
+          "confirmed_count": 143,
+          "suspected_count": 0,
+          "cured_count": 9,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "河源",
+        "adcode": "441600",
+        "update_time": 1671010010975
+      },
+      {
+        "data": {
+          "confirmed_count": 130,
+          "suspected_count": 0,
+          "cured_count": 19,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "梅州",
+        "adcode": "441400",
+        "update_time": 1671010010975
+      },
+      {
+        "data": {
+          "confirmed_count": 32,
+          "suspected_count": 0,
+          "cured_count": 13,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "汕尾",
+        "adcode": "441500",
+        "update_time": 1671010010975
+      },
+      {
+        "data": {
+          "confirmed_count": 23,
+          "suspected_count": 0,
+          "cured_count": 11,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "揭阳",
+        "adcode": "445200",
+        "update_time": 1671010010975
+      }
+    ]
+  },
+  {
+    "name": "广西",
+    "update_time": 1670899101153,
+    "adcode": "450000",
+    "comment": "",
+    "data": {
+      "confirmed_count": 2431,
+      "suspected_count": 0,
+      "cured_count": 2394,
+      "dead_count": 2
+    },
+    "cities": [
+      {
+        "data": {
+          "confirmed_count": 69,
+          "suspected_count": 0,
+          "cured_count": 35,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "桂林",
+        "adcode": "450300",
+        "update_time": 1670899101153
+      },
+      {
+        "data": {
+          "confirmed_count": 40,
+          "suspected_count": 0,
+          "cured_count": 11,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "来宾",
+        "adcode": "451300",
+        "update_time": 1670899101153
+      },
+      {
+        "data": {
+          "confirmed_count": 37,
+          "suspected_count": 0,
+          "cured_count": 33,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "崇左",
+        "adcode": "451400",
+        "update_time": 1670899101153
+      },
+      {
+        "data": {
+          "confirmed_count": 12,
+          "suspected_count": 0,
+          "cured_count": 10,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "贵港",
+        "adcode": "450800",
+        "update_time": 1670899101153
+      },
+      {
+        "data": {
+          "confirmed_count": 597,
+          "suspected_count": 0,
+          "cured_count": 595,
+          "dead_count": 1
+        },
+        "comment": "",
+        "name": "北海",
+        "adcode": "450500",
+        "update_time": 1670899101153
+      },
+      {
+        "data": {
+          "confirmed_count": 71,
+          "suspected_count": 0,
+          "cured_count": 70,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "南宁",
+        "adcode": "450100",
+        "update_time": 1670899101153
+      },
+      {
+        "data": {
+          "confirmed_count": 32,
+          "suspected_count": 0,
+          "cured_count": 30,
+          "dead_count": 1
+        },
+        "comment": "",
+        "name": "河池",
+        "adcode": "451200",
+        "update_time": 1670899101153
+      },
+      {
+        "data": {
+          "confirmed_count": 5,
+          "suspected_count": 0,
+          "cured_count": 4,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "贺州",
+        "adcode": "451100",
+        "update_time": 1670899101153
+      },
+      {
+        "data": {
+          "confirmed_count": 284,
+          "suspected_count": 0,
+          "cured_count": 284,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "百色",
+        "adcode": "451000",
+        "update_time": 1670899101153
+      },
+      {
+        "data": {
+          "confirmed_count": 149,
+          "suspected_count": 0,
+          "cured_count": 149,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "防城港",
+        "adcode": "450600",
+        "update_time": 1670899101153
+      },
+      {
+        "data": {
+          "confirmed_count": 27,
+          "suspected_count": 0,
+          "cured_count": 27,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "钦州",
+        "adcode": "450700",
+        "update_time": 1670899101153
+      },
+      {
+        "data": {
+          "confirmed_count": 24,
+          "suspected_count": 0,
+          "cured_count": 24,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "柳州",
+        "adcode": "450200",
+        "update_time": 1670899101153
+      },
+      {
+        "data": {
+          "confirmed_count": 21,
+          "suspected_count": 0,
+          "cured_count": 21,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "梧州",
+        "adcode": "450400",
+        "update_time": 1670899101153
+      },
+      {
+        "data": {
+          "confirmed_count": 15,
+          "suspected_count": 0,
+          "cured_count": 15,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "玉林",
+        "adcode": "450900",
+        "update_time": 1670899101153
+      }
+    ]
+  },
+  {
+    "name": "新疆",
+    "update_time": 1671010524534,
+    "adcode": "650000",
+    "comment": "",
+    "data": {
+      "confirmed_count": 2632,
+      "suspected_count": 0,
+      "cured_count": 2602,
+      "dead_count": 3
+    },
+    "cities": [
+      {
+        "data": {
+          "confirmed_count": 1861,
+          "suspected_count": 0,
+          "cured_count": 1716,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "乌鲁木齐",
+        "adcode": "650100",
+        "update_time": 1671010524534
+      },
+      {
+        "data": {
+          "confirmed_count": 182,
+          "suspected_count": 0,
+          "cured_count": 82,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "伊犁州",
+        "adcode": "654000",
+        "update_time": 1671010524534
+      },
+      {
+        "data": {
+          "confirmed_count": 59,
+          "suspected_count": 0,
+          "cured_count": 0,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "和田地区",
+        "adcode": "653200",
+        "update_time": 1671010524534
+      },
+      {
+        "data": {
+          "confirmed_count": 240,
+          "suspected_count": 0,
+          "cured_count": 198,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "喀什地区",
+        "adcode": "653100",
+        "update_time": 1671010524534
+      },
+      {
+        "data": {
+          "confirmed_count": 44,
+          "suspected_count": 0,
+          "cured_count": 14,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "巴州",
+        "adcode": "652800",
+        "update_time": 1671010524534
+      },
+      {
+        "data": {
+          "confirmed_count": 13,
+          "suspected_count": 0,
+          "cured_count": 0,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "塔城地区",
+        "adcode": "654200",
+        "update_time": 1671010524534
+      },
+      {
+        "data": {
+          "confirmed_count": 4,
+          "suspected_count": 0,
+          "cured_count": 0,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "克孜勒苏",
+        "adcode": "653000",
+        "update_time": 1671010524534
+      },
+      {
+        "data": {
+          "confirmed_count": 31,
+          "suspected_count": 0,
+          "cured_count": 31,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "吐鲁番",
+        "adcode": "650400",
+        "update_time": 1671010524534
+      },
+      {
+        "data": {
+          "confirmed_count": 14,
+          "suspected_count": 0,
+          "cured_count": 13,
+          "dead_count": 1
+        },
+        "comment": "",
+        "name": "兵团第四师",
+        "adcode": "659008",
+        "update_time": 1671010524534
+      },
+      {
+        "data": {
+          "confirmed_count": 11,
+          "suspected_count": 0,
+          "cured_count": 11,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "昌吉州",
+        "adcode": "652300",
+        "update_time": 1671010524534
+      },
+      {
+        "data": {
+          "confirmed_count": 8,
+          "suspected_count": 0,
+          "cured_count": 8,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "哈密",
+        "adcode": "650500",
+        "update_time": 1671010524534
+      },
+      {
+        "data": {
+          "confirmed_count": 1,
+          "suspected_count": 0,
+          "cured_count": 1,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "阿克苏地区",
+        "adcode": "652900",
+        "update_time": 1671010524534
+      },
+      {
+        "data": {
+          "confirmed_count": 1,
+          "suspected_count": 0,
+          "cured_count": 1,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "博尔塔拉",
+        "adcode": "652700",
+        "update_time": 1671010524534
+      }
+    ]
+  },
+  {
+    "name": "江苏",
+    "update_time": 1671007820172,
+    "adcode": "320000",
+    "comment": "",
+    "data": {
+      "confirmed_count": 3796,
+      "suspected_count": 3,
+      "cured_count": 3667,
+      "dead_count": 0
+    },
+    "cities": [
+      {
+        "data": {
+          "confirmed_count": 861,
+          "suspected_count": 0,
+          "cured_count": 395,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "南京",
+        "adcode": "320100",
+        "update_time": 1671007820172
+      },
+      {
+        "data": {
+          "confirmed_count": 403,
+          "suspected_count": 0,
+          "cured_count": 205,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "连云港",
+        "adcode": "320700",
+        "update_time": 1671007820172
+      },
+      {
+        "data": {
+          "confirmed_count": 184,
+          "suspected_count": 0,
+          "cured_count": 68,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "盐城",
+        "adcode": "320900",
+        "update_time": 1671007820172
+      },
+      {
+        "data": {
+          "confirmed_count": 208,
+          "suspected_count": 0,
+          "cured_count": 103,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "无锡",
+        "adcode": "320200",
+        "update_time": 1671007820172
+      },
+      {
+        "data": {
+          "confirmed_count": 310,
+          "suspected_count": 0,
+          "cured_count": 228,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "苏州",
+        "adcode": "320500",
+        "update_time": 1671007820172
+      },
+      {
+        "data": {
+          "confirmed_count": 100,
+          "suspected_count": 0,
+          "cured_count": 30,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "宿迁",
+        "adcode": "321300",
+        "update_time": 1671007820172
+      },
+      {
+        "data": {
+          "confirmed_count": 85,
+          "suspected_count": 0,
+          "cured_count": 41,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "南通",
+        "adcode": "320600",
+        "update_time": 1671007820172
+      },
+      {
+        "data": {
+          "confirmed_count": 73,
+          "suspected_count": 0,
+          "cured_count": 47,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "泰州",
+        "adcode": "321200",
+        "update_time": 1671007820172
+      },
+      {
+        "data": {
+          "confirmed_count": 108,
+          "suspected_count": 0,
+          "cured_count": 83,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "淮安",
+        "adcode": "320800",
+        "update_time": 1671007820172
+      },
+      {
+        "data": {
+          "confirmed_count": 182,
+          "suspected_count": 0,
+          "cured_count": 160,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "徐州",
+        "adcode": "320300",
+        "update_time": 1671007820172
+      },
+      {
+        "data": {
+          "confirmed_count": 41,
+          "suspected_count": 0,
+          "cured_count": 24,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "镇江",
+        "adcode": "321100",
+        "update_time": 1671007820172
+      },
+      {
+        "data": {
+          "confirmed_count": 87,
+          "suspected_count": 0,
+          "cured_count": 84,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "常州",
+        "adcode": "320400",
+        "update_time": 1671007820172
+      },
+      {
+        "data": {
+          "confirmed_count": 596,
+          "suspected_count": 0,
+          "cured_count": 594,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "扬州",
+        "adcode": "321000",
+        "update_time": 1671007820172
+      }
+    ]
+  },
+  {
+    "name": "江西",
+    "update_time": 1670895396900,
+    "adcode": "360000",
+    "comment": "",
+    "data": {
+      "confirmed_count": 1547,
+      "suspected_count": 0,
+      "cured_count": 1536,
+      "dead_count": 1
+    },
+    "cities": [
+      {
+        "data": {
+          "confirmed_count": 143,
+          "suspected_count": 0,
+          "cured_count": 140,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "九江",
+        "adcode": "360400",
+        "update_time": 1670895396900
+      },
+      {
+        "data": {
+          "confirmed_count": 82,
+          "suspected_count": 0,
+          "cured_count": 79,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "抚州",
+        "adcode": "361000",
+        "update_time": 1670895396900
+      },
+      {
+        "data": {
+          "confirmed_count": 486,
+          "suspected_count": 0,
+          "cured_count": 484,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "南昌",
+        "adcode": "360100",
+        "update_time": 1670895396900
+      },
+      {
+        "data": {
+          "confirmed_count": 328,
+          "suspected_count": 0,
+          "cured_count": 328,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "上饶",
+        "adcode": "361100",
+        "update_time": 1670895396900
+      },
+      {
+        "data": {
+          "confirmed_count": 129,
+          "suspected_count": 0,
+          "cured_count": 129,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "新余",
+        "adcode": "360500",
+        "update_time": 1670895396900
+      },
+      {
+        "data": {
+          "confirmed_count": 109,
+          "suspected_count": 0,
+          "cured_count": 109,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "宜春",
+        "adcode": "360900",
+        "update_time": 1670895396900
+      },
+      {
+        "data": {
+          "confirmed_count": 76,
+          "suspected_count": 0,
+          "cured_count": 75,
+          "dead_count": 1
+        },
+        "comment": "",
+        "name": "赣州",
+        "adcode": "360700",
+        "update_time": 1670895396900
+      },
+      {
+        "data": {
+          "confirmed_count": 48,
+          "suspected_count": 0,
+          "cured_count": 48,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "鹰潭",
+        "adcode": "360600",
+        "update_time": 1670895396900
+      },
+      {
+        "data": {
+          "confirmed_count": 44,
+          "suspected_count": 0,
+          "cured_count": 44,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "吉安",
+        "adcode": "360800",
+        "update_time": 1670895396900
+      },
+      {
+        "data": {
+          "confirmed_count": 39,
+          "suspected_count": 0,
+          "cured_count": 39,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "萍乡",
+        "adcode": "360300",
+        "update_time": 1670895396900
+      },
+      {
+        "data": {
+          "confirmed_count": 9,
+          "suspected_count": 0,
+          "cured_count": 9,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "景德镇",
+        "adcode": "360200",
+        "update_time": 1670895396900
+      }
+    ]
+  },
+  {
+    "name": "河北",
+    "update_time": 1670984698238,
+    "adcode": "130000",
+    "comment": "河北卫健委未明确部分治愈病例的地市归属，因此各地市的现存确诊存在一定偏差。",
+    "data": {
+      "confirmed_count": 2839,
+      "suspected_count": 0,
+      "cured_count": 2774,
+      "dead_count": 7
+    },
+    "cities": [
+      {
+        "data": {
+          "confirmed_count": 1800,
+          "suspected_count": 0,
+          "cured_count": 1049,
+          "dead_count": 1
+        },
+        "comment": "",
+        "name": "石家庄",
+        "adcode": "130100",
+        "update_time": 1670984698238
+      },
+      {
+        "data": {
+          "confirmed_count": 335,
+          "suspected_count": 0,
+          "cured_count": 317,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "廊坊",
+        "adcode": "131000",
+        "update_time": 1670984698238
+      },
+      {
+        "data": {
+          "confirmed_count": 79,
+          "suspected_count": 0,
+          "cured_count": 64,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "保定",
+        "adcode": "130600",
+        "update_time": 1670984698238
+      },
+      {
+        "data": {
+          "confirmed_count": 147,
+          "suspected_count": 0,
+          "cured_count": 135,
+          "dead_count": 1
+        },
+        "comment": "",
+        "name": "邢台",
+        "adcode": "130500",
+        "update_time": 1670984698238
+      },
+      {
+        "data": {
+          "confirmed_count": 74,
+          "suspected_count": 0,
+          "cured_count": 64,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "邯郸",
+        "adcode": "130400",
+        "update_time": 1670984698238
+      },
+      {
+        "data": {
+          "confirmed_count": 147,
+          "suspected_count": 0,
+          "cured_count": 135,
+          "dead_count": 3
+        },
+        "comment": "",
+        "name": "沧州",
+        "adcode": "130900",
+        "update_time": 1670984698238
+      },
+      {
+        "data": {
+          "confirmed_count": 20,
+          "suspected_count": 0,
+          "cured_count": 14,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "衡水",
+        "adcode": "131100",
+        "update_time": 1670984698238
+      },
+      {
+        "data": {
+          "confirmed_count": 24,
+          "suspected_count": 0,
+          "cured_count": 21,
+          "dead_count": 1
+        },
+        "comment": "",
+        "name": "秦皇岛",
+        "adcode": "130300",
+        "update_time": 1670984698238
+      },
+      {
+        "data": {
+          "confirmed_count": 9,
+          "suspected_count": 0,
+          "cured_count": 8,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "承德",
+        "adcode": "130800",
+        "update_time": 1670984698238
+      },
+      {
+        "data": {
+          "confirmed_count": 96,
+          "suspected_count": 0,
+          "cured_count": 95,
+          "dead_count": 1
+        },
+        "comment": "",
+        "name": "唐山",
+        "adcode": "130200",
+        "update_time": 1670984698238
+      },
+      {
+        "data": {
+          "confirmed_count": 43,
+          "suspected_count": 0,
+          "cured_count": 43,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "张家口",
+        "adcode": "130700",
+        "update_time": 1670984698238
+      }
+    ]
+  },
+  {
+    "name": "河南",
+    "update_time": 1670921806275,
+    "adcode": "410000",
+    "comment": "",
+    "data": {
+      "confirmed_count": 8692,
+      "suspected_count": 1,
+      "cured_count": 6219,
+      "dead_count": 23
+    },
+    "cities": [
+      {
+        "data": {
+          "confirmed_count": 5879,
+          "suspected_count": 0,
+          "cured_count": 3472,
+          "dead_count": 6
+        },
+        "comment": "",
+        "name": "郑州",
+        "adcode": "410100",
+        "update_time": 1670921806275
+      },
+      {
+        "data": {
+          "confirmed_count": 39,
+          "suspected_count": 0,
+          "cured_count": 7,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "济源",
+        "adcode": "419001",
+        "update_time": 1670921806275
+      },
+      {
+        "data": {
+          "confirmed_count": 59,
+          "suspected_count": 0,
+          "cured_count": 55,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "漯河",
+        "adcode": "411100",
+        "update_time": 1670921806275
+      },
+      {
+        "data": {
+          "confirmed_count": 578,
+          "suspected_count": 0,
+          "cured_count": 574,
+          "dead_count": 1
+        },
+        "comment": "",
+        "name": "许昌",
+        "adcode": "411000",
+        "update_time": 1670921806275
+      },
+      {
+        "data": {
+          "confirmed_count": 582,
+          "suspected_count": 0,
+          "cured_count": 581,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "安阳",
+        "adcode": "410500",
+        "update_time": 1670921806275
+      },
+      {
+        "data": {
+          "confirmed_count": 299,
+          "suspected_count": 0,
+          "cured_count": 296,
+          "dead_count": 2
+        },
+        "comment": "",
+        "name": "信阳",
+        "adcode": "411500",
+        "update_time": 1670921806275
+      },
+      {
+        "data": {
+          "confirmed_count": 74,
+          "suspected_count": 0,
+          "cured_count": 72,
+          "dead_count": 1
+        },
+        "comment": "",
+        "name": "平顶山",
+        "adcode": "410400",
+        "update_time": 1670921806275
+      },
+      {
+        "data": {
+          "confirmed_count": 11,
+          "suspected_count": 0,
+          "cured_count": 9,
+          "dead_count": 1
+        },
+        "comment": "",
+        "name": "三门峡",
+        "adcode": "411200",
+        "update_time": 1670921806275
+      },
+      {
+        "data": {
+          "confirmed_count": 184,
+          "suspected_count": 0,
+          "cured_count": 183,
+          "dead_count": 1
+        },
+        "comment": "",
+        "name": "周口",
+        "adcode": "411600",
+        "update_time": 1670921806275
+      },
+      {
+        "data": {
+          "confirmed_count": 165,
+          "suspected_count": 0,
+          "cured_count": 162,
+          "dead_count": 3
+        },
+        "comment": "",
+        "name": "南阳",
+        "adcode": "411300",
+        "update_time": 1670921806275
+      },
+      {
+        "data": {
+          "confirmed_count": 163,
+          "suspected_count": 0,
+          "cured_count": 163,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "驻马店",
+        "adcode": "411700",
+        "update_time": 1670921806275
+      },
+      {
+        "data": {
+          "confirmed_count": 116,
+          "suspected_count": 0,
+          "cured_count": 113,
+          "dead_count": 3
+        },
+        "comment": "",
+        "name": "商丘",
+        "adcode": "411400",
+        "update_time": 1670921806275
+      },
+      {
+        "data": {
+          "confirmed_count": 61,
+          "suspected_count": 0,
+          "cured_count": 61,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "开封",
+        "adcode": "410200",
+        "update_time": 1670921806275
+      },
+      {
+        "data": {
+          "confirmed_count": 58,
+          "suspected_count": 0,
+          "cured_count": 57,
+          "dead_count": 1
+        },
+        "comment": "",
+        "name": "洛阳",
+        "adcode": "410300",
+        "update_time": 1670921806275
+      },
+      {
+        "data": {
+          "confirmed_count": 57,
+          "suspected_count": 0,
+          "cured_count": 54,
+          "dead_count": 3
+        },
+        "comment": "",
+        "name": "新乡",
+        "adcode": "410700",
+        "update_time": 1670921806275
+      },
+      {
+        "data": {
+          "confirmed_count": 46,
+          "suspected_count": 0,
+          "cured_count": 45,
+          "dead_count": 1
+        },
+        "comment": "",
+        "name": "焦作",
+        "adcode": "410800",
+        "update_time": 1670921806275
+      },
+      {
+        "data": {
+          "confirmed_count": 45,
+          "suspected_count": 0,
+          "cured_count": 45,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "濮阳",
+        "adcode": "410900",
+        "update_time": 1670921806275
+      },
+      {
+        "data": {
+          "confirmed_count": 30,
+          "suspected_count": 0,
+          "cured_count": 30,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "鹤壁",
+        "adcode": "410600",
+        "update_time": 1670921806275
+      }
+    ]
+  },
+  {
+    "name": "浙江",
+    "update_time": 1670985189311,
+    "adcode": "330000",
+    "comment": "2月10日通报核减的12例在浙江省治愈的外省病例，根据国家最新要求重新纳入累计病例。",
+    "data": {
+      "confirmed_count": 5858,
+      "suspected_count": 68,
+      "cured_count": 4568,
+      "dead_count": 1
+    },
+    "cities": [
+      {
+        "data": {
+          "confirmed_count": 1525,
+          "suspected_count": 0,
+          "cured_count": 230,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "杭州",
+        "adcode": "330100",
+        "update_time": 1670985189311
+      },
+      {
+        "data": {
+          "confirmed_count": 692,
+          "suspected_count": 0,
+          "cured_count": 269,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "宁波",
+        "adcode": "330200",
+        "update_time": 1670985189311
+      },
+      {
+        "data": {
+          "confirmed_count": 807,
+          "suspected_count": 0,
+          "cured_count": 503,
+          "dead_count": 1
+        },
+        "comment": "",
+        "name": "温州",
+        "adcode": "330300",
+        "update_time": 1670985189311
+      },
+      {
+        "data": {
+          "confirmed_count": 700,
+          "suspected_count": 0,
+          "cured_count": 429,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "绍兴",
+        "adcode": "330600",
+        "update_time": 1670985189311
+      },
+      {
+        "data": {
+          "confirmed_count": 274,
+          "suspected_count": 0,
+          "cured_count": 22,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "衢州",
+        "adcode": "330800",
+        "update_time": 1670985189311
+      },
+      {
+        "data": {
+          "confirmed_count": 280,
+          "suspected_count": 0,
+          "cured_count": 57,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "金华",
+        "adcode": "330700",
+        "update_time": 1670985189311
+      },
+      {
+        "data": {
+          "confirmed_count": 186,
+          "suspected_count": 0,
+          "cured_count": 10,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "湖州",
+        "adcode": "330500",
+        "update_time": 1670985189311
+      },
+      {
+        "data": {
+          "confirmed_count": 285,
+          "suspected_count": 0,
+          "cured_count": 147,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "台州",
+        "adcode": "331000",
+        "update_time": 1670985189311
+      },
+      {
+        "data": {
+          "confirmed_count": 184,
+          "suspected_count": 0,
+          "cured_count": 46,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "嘉兴",
+        "adcode": "330400",
+        "update_time": 1670985189311
+      },
+      {
+        "data": {
+          "confirmed_count": 95,
+          "suspected_count": 0,
+          "cured_count": 10,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "舟山",
+        "adcode": "330900",
+        "update_time": 1670985189311
+      },
+      {
+        "data": {
+          "confirmed_count": 51,
+          "suspected_count": 0,
+          "cured_count": 17,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "丽水",
+        "adcode": "331100",
+        "update_time": 1670985189311
+      }
+    ]
+  },
+  {
+    "name": "海南",
+    "update_time": 1670899992994,
+    "adcode": "460000",
+    "comment": "",
+    "data": {
+      "confirmed_count": 10287,
+      "suspected_count": 18,
+      "cured_count": 9103,
+      "dead_count": 6
+    },
+    "cities": [
+      {
+        "data": {
+          "confirmed_count": 6899,
+          "suspected_count": 0,
+          "cured_count": 129,
+          "dead_count": 1
+        },
+        "comment": "",
+        "name": "三亚",
+        "adcode": "460200",
+        "update_time": 1670899992994
+      },
+      {
+        "data": {
+          "confirmed_count": 540,
+          "suspected_count": 0,
+          "cured_count": 15,
+          "dead_count": 1
+        },
+        "comment": "",
+        "name": "儋州",
+        "adcode": "460400",
+        "update_time": 1670899992994
+      },
+      {
+        "data": {
+          "confirmed_count": 486,
+          "suspected_count": 0,
+          "cured_count": 2,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "乐东",
+        "adcode": "469027",
+        "update_time": 1670899992994
+      },
+      {
+        "data": {
+          "confirmed_count": 475,
+          "suspected_count": 0,
+          "cured_count": 2,
+          "dead_count": 1
+        },
+        "comment": "",
+        "name": "东方",
+        "adcode": "469007",
+        "update_time": 1670899992994
+      },
+      {
+        "data": {
+          "confirmed_count": 503,
+          "suspected_count": 0,
+          "cured_count": 52,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "海口",
+        "adcode": "460100",
+        "update_time": 1670899992994
+      },
+      {
+        "data": {
+          "confirmed_count": 364,
+          "suspected_count": 0,
+          "cured_count": 10,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "陵水",
+        "adcode": "469028",
+        "update_time": 1670899992994
+      },
+      {
+        "data": {
+          "confirmed_count": 313,
+          "suspected_count": 0,
+          "cured_count": 14,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "万宁",
+        "adcode": "469006",
+        "update_time": 1670899992994
+      },
+      {
+        "data": {
+          "confirmed_count": 233,
+          "suspected_count": 0,
+          "cured_count": 6,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "临高",
+        "adcode": "469024",
+        "update_time": 1670899992994
+      },
+      {
+        "data": {
+          "confirmed_count": 148,
+          "suspected_count": 0,
+          "cured_count": 8,
+          "dead_count": 1
+        },
+        "comment": "",
+        "name": "澄迈",
+        "adcode": "469023",
+        "update_time": 1670899992994
+      },
+      {
+        "data": {
+          "confirmed_count": 73,
+          "suspected_count": 0,
+          "cured_count": 3,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "文昌",
+        "adcode": "469005",
+        "update_time": 1670899992994
+      },
+      {
+        "data": {
+          "confirmed_count": 52,
+          "suspected_count": 0,
+          "cured_count": 0,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "五指山",
+        "adcode": "469001",
+        "update_time": 1670899992994
+      },
+      {
+        "data": {
+          "confirmed_count": 61,
+          "suspected_count": 0,
+          "cured_count": 10,
+          "dead_count": 1
+        },
+        "comment": "",
+        "name": "琼海",
+        "adcode": "469002",
+        "update_time": 1670899992994
+      },
+      {
+        "data": {
+          "confirmed_count": 48,
+          "suspected_count": 0,
+          "cured_count": 2,
+          "dead_count": 1
+        },
+        "comment": "",
+        "name": "定安",
+        "adcode": "469021",
+        "update_time": 1670899992994
+      },
+      {
+        "data": {
+          "confirmed_count": 15,
+          "suspected_count": 0,
+          "cured_count": 0,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "白沙",
+        "adcode": "469025",
+        "update_time": 1670899992994
+      },
+      {
+        "data": {
+          "confirmed_count": 13,
+          "suspected_count": 0,
+          "cured_count": 1,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "琼中",
+        "adcode": "469030",
+        "update_time": 1670899992994
+      },
+      {
+        "data": {
+          "confirmed_count": 15,
+          "suspected_count": 0,
+          "cured_count": 7,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "昌江",
+        "adcode": "469026",
+        "update_time": 1670899992994
+      },
+      {
+        "data": {
+          "confirmed_count": 7,
+          "suspected_count": 0,
+          "cured_count": 3,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "保亭",
+        "adcode": "469029",
+        "update_time": 1670899992994
+      }
+    ]
+  },
+  {
+    "name": "湖北",
+    "update_time": 1671009467638,
+    "adcode": "420000",
+    "comment": "4.17武汉市订正数据，武汉死亡核增1290，确诊核增325，治愈核减965",
+    "data": {
+      "confirmed_count": 68862,
+      "suspected_count": 25,
+      "cured_count": 64071,
+      "dead_count": 4512
+    },
+    "cities": [
+      {
+        "data": {
+          "confirmed_count": 50787,
+          "suspected_count": 0,
+          "cured_count": 46689,
+          "dead_count": 3869
+        },
+        "comment": "",
+        "name": "武汉",
+        "adcode": "420100",
+        "update_time": 1671009467638
+      },
+      {
+        "data": {
+          "confirmed_count": 3518,
+          "suspected_count": 0,
+          "cured_count": 3389,
+          "dead_count": 129
+        },
+        "comment": "",
+        "name": "孝感",
+        "adcode": "420900",
+        "update_time": 1671009467638
+      },
+      {
+        "data": {
+          "confirmed_count": 2913,
+          "suspected_count": 0,
+          "cured_count": 2788,
+          "dead_count": 125
+        },
+        "comment": "",
+        "name": "黄冈",
+        "adcode": "421100",
+        "update_time": 1671009467638
+      },
+      {
+        "data": {
+          "confirmed_count": 1582,
+          "suspected_count": 0,
+          "cured_count": 1530,
+          "dead_count": 52
+        },
+        "comment": "",
+        "name": "荆州",
+        "adcode": "421000",
+        "update_time": 1671009467638
+      },
+      {
+        "data": {
+          "confirmed_count": 1395,
+          "suspected_count": 0,
+          "cured_count": 1336,
+          "dead_count": 59
+        },
+        "comment": "",
+        "name": "鄂州",
+        "adcode": "420700",
+        "update_time": 1671009467638
+      },
+      {
+        "data": {
+          "confirmed_count": 1307,
+          "suspected_count": 0,
+          "cured_count": 1262,
+          "dead_count": 45
+        },
+        "comment": "",
+        "name": "随州",
+        "adcode": "421300",
+        "update_time": 1671009467638
+      },
+      {
+        "data": {
+          "confirmed_count": 1190,
+          "suspected_count": 0,
+          "cured_count": 1150,
+          "dead_count": 40
+        },
+        "comment": "",
+        "name": "襄阳",
+        "adcode": "420600",
+        "update_time": 1671009467638
+      },
+      {
+        "data": {
+          "confirmed_count": 1016,
+          "suspected_count": 0,
+          "cured_count": 977,
+          "dead_count": 39
+        },
+        "comment": "",
+        "name": "黄石",
+        "adcode": "420200",
+        "update_time": 1671009467638
+      },
+      {
+        "data": {
+          "confirmed_count": 971,
+          "suspected_count": 0,
+          "cured_count": 930,
+          "dead_count": 41
+        },
+        "comment": "",
+        "name": "荆门",
+        "adcode": "420800",
+        "update_time": 1671009467638
+      },
+      {
+        "data": {
+          "confirmed_count": 932,
+          "suspected_count": 0,
+          "cured_count": 895,
+          "dead_count": 37
+        },
+        "comment": "",
+        "name": "宜昌",
+        "adcode": "420500",
+        "update_time": 1671009467638
+      },
+      {
+        "data": {
+          "confirmed_count": 836,
+          "suspected_count": 0,
+          "cured_count": 821,
+          "dead_count": 15
+        },
+        "comment": "",
+        "name": "咸宁",
+        "adcode": "421200",
+        "update_time": 1671009467638
+      },
+      {
+        "data": {
+          "confirmed_count": 674,
+          "suspected_count": 0,
+          "cured_count": 666,
+          "dead_count": 8
+        },
+        "comment": "",
+        "name": "十堰",
+        "adcode": "420300",
+        "update_time": 1671009467638
+      },
+      {
+        "data": {
+          "confirmed_count": 575,
+          "suspected_count": 0,
+          "cured_count": 553,
+          "dead_count": 22
+        },
+        "comment": "",
+        "name": "仙桃",
+        "adcode": "429004",
+        "update_time": 1671009467638
+      },
+      {
+        "data": {
+          "confirmed_count": 498,
+          "suspected_count": 0,
+          "cured_count": 483,
+          "dead_count": 15
+        },
+        "comment": "",
+        "name": "天门",
+        "adcode": "429006",
+        "update_time": 1671009467638
+      },
+      {
+        "data": {
+          "confirmed_count": 255,
+          "suspected_count": 0,
+          "cured_count": 248,
+          "dead_count": 7
+        },
+        "comment": "",
+        "name": "恩施州",
+        "adcode": "422800",
+        "update_time": 1671009467638
+      },
+      {
+        "data": {
+          "confirmed_count": 200,
+          "suspected_count": 0,
+          "cured_count": 191,
+          "dead_count": 9
+        },
+        "comment": "",
+        "name": "潜江",
+        "adcode": "429005",
+        "update_time": 1671009467638
+      },
+      {
+        "data": {
+          "confirmed_count": 12,
+          "suspected_count": 0,
+          "cured_count": 12,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "神农架林区",
+        "adcode": "429021",
+        "update_time": 1671009467638
+      }
+    ]
+  },
+  {
+    "name": "湖南",
+    "update_time": 1671009561123,
+    "adcode": "430000",
+    "comment": "",
+    "data": {
+      "confirmed_count": 2442,
+      "suspected_count": 2,
+      "cured_count": 2122,
+      "dead_count": 4
+    },
+    "cities": [
+      {
+        "data": {
+          "confirmed_count": 338,
+          "suspected_count": 0,
+          "cured_count": 153,
+          "dead_count": 1
+        },
+        "comment": "",
+        "name": "邵阳",
+        "adcode": "430500",
+        "update_time": 1671009561123
+      },
+      {
+        "data": {
+          "confirmed_count": 448,
+          "suspected_count": 0,
+          "cured_count": 272,
+          "dead_count": 2
+        },
+        "comment": "",
+        "name": "长沙",
+        "adcode": "430100",
+        "update_time": 1671009561123
+      },
+      {
+        "data": {
+          "confirmed_count": 143,
+          "suspected_count": 0,
+          "cured_count": 40,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "郴州",
+        "adcode": "431000",
+        "update_time": 1671009561123
+      },
+      {
+        "data": {
+          "confirmed_count": 195,
+          "suspected_count": 0,
+          "cured_count": 110,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "株洲",
+        "adcode": "430200",
+        "update_time": 1671009561123
+      },
+      {
+        "data": {
+          "confirmed_count": 149,
+          "suspected_count": 0,
+          "cured_count": 65,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "怀化",
+        "adcode": "431200",
+        "update_time": 1671009561123
+      },
+      {
+        "data": {
+          "confirmed_count": 148,
+          "suspected_count": 0,
+          "cured_count": 77,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "张家界",
+        "adcode": "430800",
+        "update_time": 1671009561123
+      },
+      {
+        "data": {
+          "confirmed_count": 109,
+          "suspected_count": 0,
+          "cured_count": 41,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "湘潭",
+        "adcode": "430300",
+        "update_time": 1671009561123
+      },
+      {
+        "data": {
+          "confirmed_count": 140,
+          "suspected_count": 0,
+          "cured_count": 82,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "娄底",
+        "adcode": "431300",
+        "update_time": 1671009561123
+      },
+      {
+        "data": {
+          "confirmed_count": 210,
+          "suspected_count": 0,
+          "cured_count": 158,
+          "dead_count": 1
+        },
+        "comment": "",
+        "name": "岳阳",
+        "adcode": "430600",
+        "update_time": 1671009561123
+      },
+      {
+        "data": {
+          "confirmed_count": 101,
+          "suspected_count": 0,
+          "cured_count": 65,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "益阳",
+        "adcode": "430900",
+        "update_time": 1671009561123
+      },
+      {
+        "data": {
+          "confirmed_count": 83,
+          "suspected_count": 0,
+          "cured_count": 53,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "衡阳",
+        "adcode": "430400",
+        "update_time": 1671009561123
+      },
+      {
+        "data": {
+          "confirmed_count": 67,
+          "suspected_count": 0,
+          "cured_count": 45,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "永州",
+        "adcode": "431100",
+        "update_time": 1671009561123
+      },
+      {
+        "data": {
+          "confirmed_count": 102,
+          "suspected_count": 0,
+          "cured_count": 82,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "常德",
+        "adcode": "430700",
+        "update_time": 1671009561123
+      },
+      {
+        "data": {
+          "confirmed_count": 31,
+          "suspected_count": 0,
+          "cured_count": 13,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "湘西自治州",
+        "adcode": "433100",
+        "update_time": 1671009561123
+      }
+    ]
+  },
+  {
+    "name": "甘肃",
+    "update_time": 1671010524534,
+    "adcode": "620000",
+    "comment": "",
+    "data": {
+      "confirmed_count": 1561,
+      "suspected_count": 0,
+      "cured_count": 1529,
+      "dead_count": 2
+    },
+    "cities": [
+      {
+        "data": {
+          "confirmed_count": 1048,
+          "suspected_count": 0,
+          "cured_count": 878,
+          "dead_count": 2
+        },
+        "comment": "",
+        "name": "兰州",
+        "adcode": "620100",
+        "update_time": 1671010524534
+      },
+      {
+        "data": {
+          "confirmed_count": 33,
+          "suspected_count": 0,
+          "cured_count": 16,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "陇南",
+        "adcode": "621200",
+        "update_time": 1671010524534
+      },
+      {
+        "data": {
+          "confirmed_count": 82,
+          "suspected_count": 0,
+          "cured_count": 82,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "临夏",
+        "adcode": "622900",
+        "update_time": 1671010524534
+      },
+      {
+        "data": {
+          "confirmed_count": 57,
+          "suspected_count": 0,
+          "cured_count": 57,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "天水",
+        "adcode": "620500",
+        "update_time": 1671010524534
+      },
+      {
+        "data": {
+          "confirmed_count": 49,
+          "suspected_count": 0,
+          "cured_count": 49,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "甘南",
+        "adcode": "623000",
+        "update_time": 1671010524534
+      },
+      {
+        "data": {
+          "confirmed_count": 29,
+          "suspected_count": 0,
+          "cured_count": 29,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "白银",
+        "adcode": "620400",
+        "update_time": 1671010524534
+      },
+      {
+        "data": {
+          "confirmed_count": 19,
+          "suspected_count": 0,
+          "cured_count": 19,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "张掖",
+        "adcode": "620700",
+        "update_time": 1671010524534
+      },
+      {
+        "data": {
+          "confirmed_count": 15,
+          "suspected_count": 0,
+          "cured_count": 15,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "定西",
+        "adcode": "621100",
+        "update_time": 1671010524534
+      },
+      {
+        "data": {
+          "confirmed_count": 9,
+          "suspected_count": 0,
+          "cured_count": 9,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "平凉",
+        "adcode": "620800",
+        "update_time": 1671010524534
+      },
+      {
+        "data": {
+          "confirmed_count": 8,
+          "suspected_count": 0,
+          "cured_count": 8,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "庆阳",
+        "adcode": "621000",
+        "update_time": 1671010524534
+      },
+      {
+        "data": {
+          "confirmed_count": 8,
+          "suspected_count": 0,
+          "cured_count": 8,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "武威",
+        "adcode": "620600",
+        "update_time": 1671010524534
+      },
+      {
+        "data": {
+          "confirmed_count": 5,
+          "suspected_count": 0,
+          "cured_count": 5,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "嘉峪关",
+        "adcode": "620200",
+        "update_time": 1671010524534
+      },
+      {
+        "data": {
+          "confirmed_count": 1,
+          "suspected_count": 0,
+          "cured_count": 1,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "金昌",
+        "adcode": "620300",
+        "update_time": 1671010524534
+      },
+      {
+        "data": {
+          "confirmed_count": 1,
+          "suspected_count": 0,
+          "cured_count": 1,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "酒泉",
+        "adcode": "620900",
+        "update_time": 1671010524534
+      }
+    ]
+  },
+  {
+    "name": "福建",
+    "update_time": 1671007820172,
+    "adcode": "350000",
+    "comment": "",
+    "data": {
+      "confirmed_count": 7326,
+      "suspected_count": 15,
+      "cured_count": 6520,
+      "dead_count": 1
+    },
+    "cities": [
+      {
+        "data": {
+          "confirmed_count": 990,
+          "suspected_count": 0,
+          "cured_count": 643,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "厦门",
+        "adcode": "350200",
+        "update_time": 1671007820172
+      },
+      {
+        "data": {
+          "confirmed_count": 312,
+          "suspected_count": 0,
+          "cured_count": 144,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "漳州",
+        "adcode": "350600",
+        "update_time": 1671007820172
+      },
+      {
+        "data": {
+          "confirmed_count": 240,
+          "suspected_count": 0,
+          "cured_count": 84,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "三明",
+        "adcode": "350400",
+        "update_time": 1671007820172
+      },
+      {
+        "data": {
+          "confirmed_count": 1453,
+          "suspected_count": 0,
+          "cured_count": 1325,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "泉州",
+        "adcode": "350500",
+        "update_time": 1671007820172
+      },
+      {
+        "data": {
+          "confirmed_count": 94,
+          "suspected_count": 0,
+          "cured_count": 6,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "龙岩",
+        "adcode": "350800",
+        "update_time": 1671007820172
+      },
+      {
+        "data": {
+          "confirmed_count": 517,
+          "suspected_count": 0,
+          "cured_count": 443,
+          "dead_count": 1
+        },
+        "comment": "",
+        "name": "福州",
+        "adcode": "350100",
+        "update_time": 1671007820172
+      },
+      {
+        "data": {
+          "confirmed_count": 129,
+          "suspected_count": 0,
+          "cured_count": 85,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "南平",
+        "adcode": "350700",
+        "update_time": 1671007820172
+      },
+      {
+        "data": {
+          "confirmed_count": 127,
+          "suspected_count": 0,
+          "cured_count": 107,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "宁德",
+        "adcode": "350900",
+        "update_time": 1671007820172
+      },
+      {
+        "data": {
+          "confirmed_count": 373,
+          "suspected_count": 0,
+          "cured_count": 359,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "莆田",
+        "adcode": "350300",
+        "update_time": 1671007820172
+      }
+    ]
+  },
+  {
+    "name": "西藏",
+    "update_time": 1670921806275,
+    "adcode": "540000",
+    "comment": "",
+    "data": {
+      "confirmed_count": 1522,
+      "suspected_count": 0,
+      "cured_count": 1515,
+      "dead_count": 0
+    },
+    "cities": [
+      {
+        "data": {
+          "confirmed_count": 782,
+          "suspected_count": 0,
+          "cured_count": 37,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "拉萨",
+        "adcode": "540100",
+        "update_time": 1670921806275
+      },
+      {
+        "data": {
+          "confirmed_count": 239,
+          "suspected_count": 0,
+          "cured_count": 0,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "日喀则",
+        "adcode": "540200",
+        "update_time": 1670921806275
+      },
+      {
+        "data": {
+          "confirmed_count": 84,
+          "suspected_count": 0,
+          "cured_count": 0,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "那曲",
+        "adcode": "540600",
+        "update_time": 1670921806275
+      },
+      {
+        "data": {
+          "confirmed_count": 267,
+          "suspected_count": 0,
+          "cured_count": 215,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "昌都",
+        "adcode": "540300",
+        "update_time": 1670921806275
+      },
+      {
+        "data": {
+          "confirmed_count": 18,
+          "suspected_count": 0,
+          "cured_count": 2,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "阿里地区",
+        "adcode": "542500",
+        "update_time": 1670921806275
+      },
+      {
+        "data": {
+          "confirmed_count": 109,
+          "suspected_count": 0,
+          "cured_count": 108,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "林芝",
+        "adcode": "540400",
+        "update_time": 1670921806275
+      },
+      {
+        "data": {
+          "confirmed_count": 12,
+          "suspected_count": 0,
+          "cured_count": 12,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "山南",
+        "adcode": "540500",
+        "update_time": 1670921806275
+      }
+    ]
+  },
+  {
+    "name": "贵州",
+    "update_time": 1670921806275,
+    "adcode": "520000",
+    "comment": "3月17日贵阳市新增1例境外输入无症状感染者",
+    "data": {
+      "confirmed_count": 1756,
+      "suspected_count": 0,
+      "cured_count": 1514,
+      "dead_count": 2
+    },
+    "cities": [
+      {
+        "data": {
+          "confirmed_count": 350,
+          "suspected_count": 0,
+          "cured_count": 162,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "遵义",
+        "adcode": "520300",
+        "update_time": 1670921806275
+      },
+      {
+        "data": {
+          "confirmed_count": 134,
+          "suspected_count": 0,
+          "cured_count": 43,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "黔南州",
+        "adcode": "522700",
+        "update_time": 1670921806275
+      },
+      {
+        "data": {
+          "confirmed_count": 105,
+          "suspected_count": 0,
+          "cured_count": 36,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "黔东南州",
+        "adcode": "522600",
+        "update_time": 1670921806275
+      },
+      {
+        "data": {
+          "confirmed_count": 422,
+          "suspected_count": 0,
+          "cured_count": 387,
+          "dead_count": 1
+        },
+        "comment": "",
+        "name": "贵阳",
+        "adcode": "520100",
+        "update_time": 1670921806275
+      },
+      {
+        "data": {
+          "confirmed_count": 64,
+          "suspected_count": 0,
+          "cured_count": 37,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "铜仁",
+        "adcode": "520600",
+        "update_time": 1670921806275
+      },
+      {
+        "data": {
+          "confirmed_count": 45,
+          "suspected_count": 0,
+          "cured_count": 21,
+          "dead_count": 1
+        },
+        "comment": "",
+        "name": "六盘水",
+        "adcode": "520200",
+        "update_time": 1670921806275
+      },
+      {
+        "data": {
+          "confirmed_count": 599,
+          "suspected_count": 0,
+          "cured_count": 588,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "毕节",
+        "adcode": "520500",
+        "update_time": 1670921806275
+      },
+      {
+        "data": {
+          "confirmed_count": 21,
+          "suspected_count": 0,
+          "cured_count": 15,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "黔西南州",
+        "adcode": "522300",
+        "update_time": 1670921806275
+      },
+      {
+        "data": {
+          "confirmed_count": 10,
+          "suspected_count": 0,
+          "cured_count": 10,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "安顺",
+        "adcode": "520400",
+        "update_time": 1670921806275
+      }
+    ]
+  },
+  {
+    "name": "辽宁",
+    "update_time": 1671007719550,
+    "adcode": "210000",
+    "comment": "",
+    "data": {
+      "confirmed_count": 3023,
+      "suspected_count": 0,
+      "cured_count": 2683,
+      "dead_count": 2
+    },
+    "cities": [
+      {
+        "data": {
+          "confirmed_count": 887,
+          "suspected_count": 0,
+          "cured_count": 246,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "沈阳",
+        "adcode": "210100",
+        "update_time": 1671007719550
+      },
+      {
+        "data": {
+          "confirmed_count": 186,
+          "suspected_count": 0,
+          "cured_count": 14,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "铁岭",
+        "adcode": "211200",
+        "update_time": 1671007719550
+      },
+      {
+        "data": {
+          "confirmed_count": 697,
+          "suspected_count": 0,
+          "cured_count": 620,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "大连",
+        "adcode": "210200",
+        "update_time": 1671007719550
+      },
+      {
+        "data": {
+          "confirmed_count": 82,
+          "suspected_count": 0,
+          "cured_count": 14,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "盘锦",
+        "adcode": "211100",
+        "update_time": 1671007719550
+      },
+      {
+        "data": {
+          "confirmed_count": 59,
+          "suspected_count": 0,
+          "cured_count": 1,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "抚顺",
+        "adcode": "210400",
+        "update_time": 1671007719550
+      },
+      {
+        "data": {
+          "confirmed_count": 49,
+          "suspected_count": 0,
+          "cured_count": 6,
+          "dead_count": 1
+        },
+        "comment": "",
+        "name": "朝阳",
+        "adcode": "211300",
+        "update_time": 1671007719550
+      },
+      {
+        "data": {
+          "confirmed_count": 36,
+          "suspected_count": 0,
+          "cured_count": 10,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "阜新",
+        "adcode": "210900",
+        "update_time": 1671007719550
+      },
+      {
+        "data": {
+          "confirmed_count": 42,
+          "suspected_count": 0,
+          "cured_count": 19,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "鞍山",
+        "adcode": "210300",
+        "update_time": 1671007719550
+      },
+      {
+        "data": {
+          "confirmed_count": 27,
+          "suspected_count": 0,
+          "cured_count": 5,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "本溪",
+        "adcode": "210500",
+        "update_time": 1671007719550
+      },
+      {
+        "data": {
+          "confirmed_count": 29,
+          "suspected_count": 0,
+          "cured_count": 15,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "锦州",
+        "adcode": "210700",
+        "update_time": 1671007719550
+      },
+      {
+        "data": {
+          "confirmed_count": 88,
+          "suspected_count": 0,
+          "cured_count": 83,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "丹东",
+        "adcode": "210600",
+        "update_time": 1671007719550
+      },
+      {
+        "data": {
+          "confirmed_count": 229,
+          "suspected_count": 0,
+          "cured_count": 226,
+          "dead_count": 1
+        },
+        "comment": "",
+        "name": "葫芦岛",
+        "adcode": "211400",
+        "update_time": 1671007719550
+      },
+      {
+        "data": {
+          "confirmed_count": 14,
+          "suspected_count": 0,
+          "cured_count": 12,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "辽阳",
+        "adcode": "211000",
+        "update_time": 1671007719550
+      },
+      {
+        "data": {
+          "confirmed_count": 218,
+          "suspected_count": 0,
+          "cured_count": 218,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "营口",
+        "adcode": "210800",
+        "update_time": 1671007719550
+      }
+    ]
+  },
+  {
+    "name": "重庆",
+    "update_time": 1670899447481,
+    "adcode": "500000",
+    "comment": "",
+    "data": {
+      "confirmed_count": 8542,
+      "suspected_count": 15,
+      "cured_count": 6627,
+      "dead_count": 7
+    },
+    "cities": [
+      {
+        "data": {
+          "confirmed_count": 774,
+          "suspected_count": 0,
+          "cured_count": 344,
+          "dead_count": 1
+        },
+        "comment": "",
+        "name": "九龙坡区",
+        "adcode": "500107",
+        "update_time": 1670899447481
+      },
+      {
+        "data": {
+          "confirmed_count": 1202,
+          "suspected_count": 0,
+          "cured_count": 866,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "渝北区",
+        "adcode": "500112",
+        "update_time": 1670899447481
+      },
+      {
+        "data": {
+          "confirmed_count": 555,
+          "suspected_count": 0,
+          "cured_count": 254,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "南岸区",
+        "adcode": "500108",
+        "update_time": 1670899447481
+      },
+      {
+        "data": {
+          "confirmed_count": 379,
+          "suspected_count": 0,
+          "cured_count": 193,
+          "dead_count": 1
+        },
+        "comment": "",
+        "name": "渝中区",
+        "adcode": "500103",
+        "update_time": 1670899447481
+      },
+      {
+        "data": {
+          "confirmed_count": 395,
+          "suspected_count": 0,
+          "cured_count": 249,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "巴南区",
+        "adcode": "500113",
+        "update_time": 1670899447481
+      },
+      {
+        "data": {
+          "confirmed_count": 301,
+          "suspected_count": 0,
+          "cured_count": 159,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "江北区",
+        "adcode": "500105",
+        "update_time": 1670899447481
+      },
+      {
+        "data": {
+          "confirmed_count": 298,
+          "suspected_count": 0,
+          "cured_count": 181,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "北碚区",
+        "adcode": "500109",
+        "update_time": 1670899447481
+      },
+      {
+        "data": {
+          "confirmed_count": 652,
+          "suspected_count": 0,
+          "cured_count": 545,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "沙坪坝区",
+        "adcode": "500106",
+        "update_time": 1670899447481
+      },
+      {
+        "data": {
+          "confirmed_count": 140,
+          "suspected_count": 0,
+          "cured_count": 51,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "奉节县",
+        "adcode": "500236",
+        "update_time": 1670899447481
+      },
+      {
+        "data": {
+          "confirmed_count": 113,
+          "suspected_count": 0,
+          "cured_count": 33,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "綦江区",
+        "adcode": "500110",
+        "update_time": 1670899447481
+      },
+      {
+        "data": {
+          "confirmed_count": 97,
+          "suspected_count": 0,
+          "cured_count": 33,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "武隆区",
+        "adcode": "500156",
+        "update_time": 1670899447481
+      },
+      {
+        "data": {
+          "confirmed_count": 93,
+          "suspected_count": 0,
+          "cured_count": 32,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "涪陵区",
+        "adcode": "500102",
+        "update_time": 1670899447481
+      },
+      {
+        "data": {
+          "confirmed_count": 189,
+          "suspected_count": 0,
+          "cured_count": 135,
+          "dead_count": 1
+        },
+        "comment": "",
+        "name": "开州区",
+        "adcode": "500154",
+        "update_time": 1670899447481
+      },
+      {
+        "data": {
+          "confirmed_count": 122,
+          "suspected_count": 0,
+          "cured_count": 74,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "大渡口区",
+        "adcode": "500104",
+        "update_time": 1670899447481
+      },
+      {
+        "data": {
+          "confirmed_count": 181,
+          "suspected_count": 0,
+          "cured_count": 134,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "梁平区",
+        "adcode": "500155",
+        "update_time": 1670899447481
+      },
+      {
+        "data": {
+          "confirmed_count": 129,
+          "suspected_count": 0,
+          "cured_count": 84,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "江津区",
+        "adcode": "500116",
+        "update_time": 1670899447481
+      },
+      {
+        "data": {
+          "confirmed_count": 63,
+          "suspected_count": 0,
+          "cured_count": 21,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "城口县",
+        "adcode": "500229",
+        "update_time": 1670899447481
+      },
+      {
+        "data": {
+          "confirmed_count": 78,
+          "suspected_count": 0,
+          "cured_count": 41,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "彭水县",
+        "adcode": "500243",
+        "update_time": 1670899447481
+      },
+      {
+        "data": {
+          "confirmed_count": 58,
+          "suspected_count": 0,
+          "cured_count": 24,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "黔江区",
+        "adcode": "500114",
+        "update_time": 1670899447481
+      },
+      {
+        "data": {
+          "confirmed_count": 225,
+          "suspected_count": 0,
+          "cured_count": 192,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "永川区",
+        "adcode": "500118",
+        "update_time": 1670899447481
+      },
+      {
+        "data": {
+          "confirmed_count": 142,
+          "suspected_count": 0,
+          "cured_count": 109,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "云阳县",
+        "adcode": "500235",
+        "update_time": 1670899447481
+      },
+      {
+        "data": {
+          "confirmed_count": 70,
+          "suspected_count": 0,
+          "cured_count": 37,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "潼南区",
+        "adcode": "500152",
+        "update_time": 1670899447481
+      },
+      {
+        "data": {
+          "confirmed_count": 44,
+          "suspected_count": 0,
+          "cured_count": 11,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "丰都县",
+        "adcode": "500230",
+        "update_time": 1670899447481
+      },
+      {
+        "data": {
+          "confirmed_count": 121,
+          "suspected_count": 0,
+          "cured_count": 93,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "合川区",
+        "adcode": "500117",
+        "update_time": 1670899447481
+      },
+      {
+        "data": {
+          "confirmed_count": 81,
+          "suspected_count": 0,
+          "cured_count": 54,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "铜梁区",
+        "adcode": "500151",
+        "update_time": 1670899447481
+      },
+      {
+        "data": {
+          "confirmed_count": 154,
+          "suspected_count": 0,
+          "cured_count": 129,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "秀山县",
+        "adcode": "500241",
+        "update_time": 1670899447481
+      },
+      {
+        "data": {
+          "confirmed_count": 99,
+          "suspected_count": 0,
+          "cured_count": 77,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "长寿区",
+        "adcode": "500115",
+        "update_time": 1670899447481
+      },
+      {
+        "data": {
+          "confirmed_count": 94,
+          "suspected_count": 0,
+          "cured_count": 72,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "荣昌区",
+        "adcode": "500153",
+        "update_time": 1670899447481
+      },
+      {
+        "data": {
+          "confirmed_count": 270,
+          "suspected_count": 0,
+          "cured_count": 251,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "垫江县",
+        "adcode": "500231",
+        "update_time": 1670899447481
+      },
+      {
+        "data": {
+          "confirmed_count": 42,
+          "suspected_count": 0,
+          "cured_count": 27,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "忠县",
+        "adcode": "500233",
+        "update_time": 1670899447481
+      },
+      {
+        "data": {
+          "confirmed_count": 52,
+          "suspected_count": 0,
+          "cured_count": 38,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "巫溪县",
+        "adcode": "500238",
+        "update_time": 1670899447481
+      },
+      {
+        "data": {
+          "confirmed_count": 298,
+          "suspected_count": 0,
+          "cured_count": 281,
+          "dead_count": 4
+        },
+        "comment": "",
+        "name": "万州区",
+        "adcode": "500101",
+        "update_time": 1670899447481
+      },
+      {
+        "data": {
+          "confirmed_count": 30,
+          "suspected_count": 0,
+          "cured_count": 17,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "酉阳县",
+        "adcode": "500242",
+        "update_time": 1670899447481
+      },
+      {
+        "data": {
+          "confirmed_count": 35,
+          "suspected_count": 0,
+          "cured_count": 23,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "南川区",
+        "adcode": "500119",
+        "update_time": 1670899447481
+      },
+      {
+        "data": {
+          "confirmed_count": 69,
+          "suspected_count": 0,
+          "cured_count": 59,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "巫山县",
+        "adcode": "500237",
+        "update_time": 1670899447481
+      },
+      {
+        "data": {
+          "confirmed_count": 26,
+          "suspected_count": 0,
+          "cured_count": 16,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "石柱县",
+        "adcode": "500240",
+        "update_time": 1670899447481
+      },
+      {
+        "data": {
+          "confirmed_count": 51,
+          "suspected_count": 0,
+          "cured_count": 43,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "璧山区",
+        "adcode": "500120",
+        "update_time": 1670899447481
+      },
+      {
+        "data": {
+          "confirmed_count": 150,
+          "suspected_count": 0,
+          "cured_count": 150,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "大足区",
+        "adcode": "500111",
+        "update_time": 1670899447481
+      }
+    ]
+  },
+  {
+    "name": "陕西",
+    "update_time": 1671010524534,
+    "adcode": "610000",
+    "comment": "",
+    "data": {
+      "confirmed_count": 5462,
+      "suspected_count": 4,
+      "cured_count": 4846,
+      "dead_count": 3
+    },
+    "cities": [
+      {
+        "data": {
+          "confirmed_count": 2843,
+          "suspected_count": 0,
+          "cured_count": 2353,
+          "dead_count": 3
+        },
+        "comment": "",
+        "name": "西安",
+        "adcode": "610100",
+        "update_time": 1671010524534
+      },
+      {
+        "data": {
+          "confirmed_count": 390,
+          "suspected_count": 0,
+          "cured_count": 21,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "渭南",
+        "adcode": "610500",
+        "update_time": 1671010524534
+      },
+      {
+        "data": {
+          "confirmed_count": 319,
+          "suspected_count": 0,
+          "cured_count": 3,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "榆林",
+        "adcode": "610800",
+        "update_time": 1671010524534
+      },
+      {
+        "data": {
+          "confirmed_count": 350,
+          "suspected_count": 0,
+          "cured_count": 57,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "汉中",
+        "adcode": "610700",
+        "update_time": 1671010524534
+      },
+      {
+        "data": {
+          "confirmed_count": 281,
+          "suspected_count": 0,
+          "cured_count": 34,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "安康",
+        "adcode": "610900",
+        "update_time": 1671010524534
+      },
+      {
+        "data": {
+          "confirmed_count": 99,
+          "suspected_count": 0,
+          "cured_count": 8,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "商洛",
+        "adcode": "611000",
+        "update_time": 1671010524534
+      },
+      {
+        "data": {
+          "confirmed_count": 78,
+          "suspected_count": 0,
+          "cured_count": 21,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "延安",
+        "adcode": "610600",
+        "update_time": 1671010524534
+      },
+      {
+        "data": {
+          "confirmed_count": 68,
+          "suspected_count": 0,
+          "cured_count": 26,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "铜川",
+        "adcode": "610200",
+        "update_time": 1671010524534
+      },
+      {
+        "data": {
+          "confirmed_count": 33,
+          "suspected_count": 0,
+          "cured_count": 1,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "韩城",
+        "adcode": "610581",
+        "update_time": 1671010524534
+      },
+      {
+        "data": {
+          "confirmed_count": 66,
+          "suspected_count": 0,
+          "cured_count": 36,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "咸阳",
+        "adcode": "610400",
+        "update_time": 1671010524534
+      },
+      {
+        "data": {
+          "confirmed_count": 261,
+          "suspected_count": 0,
+          "cured_count": 254,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "宝鸡",
+        "adcode": "610300",
+        "update_time": 1671010524534
+      },
+      {
+        "data": {
+          "confirmed_count": 6,
+          "suspected_count": 0,
+          "cured_count": 3,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "杨凌",
+        "adcode": "610403",
+        "update_time": 1671010524534
+      }
+    ]
+  },
+  {
+    "name": "青海",
+    "update_time": 1670901356725,
+    "adcode": "630000",
+    "comment": "",
+    "data": {
+      "confirmed_count": 510,
+      "suspected_count": 0,
+      "cured_count": 482,
+      "dead_count": 0
+    },
+    "cities": [
+      {
+        "data": {
+          "confirmed_count": 355,
+          "suspected_count": 0,
+          "cured_count": 114,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "西宁",
+        "adcode": "630100",
+        "update_time": 1670901356725
+      },
+      {
+        "data": {
+          "confirmed_count": 15,
+          "suspected_count": 0,
+          "cured_count": 10,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "海东",
+        "adcode": "630200",
+        "update_time": 1670901356725
+      },
+      {
+        "data": {
+          "confirmed_count": 8,
+          "suspected_count": 0,
+          "cured_count": 5,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "玉树",
+        "adcode": "632700",
+        "update_time": 1670901356725
+      },
+      {
+        "data": {
+          "confirmed_count": 9,
+          "suspected_count": 0,
+          "cured_count": 7,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "海北州",
+        "adcode": "632200",
+        "update_time": 1670901356725
+      },
+      {
+        "data": {
+          "confirmed_count": 2,
+          "suspected_count": 0,
+          "cured_count": 0,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "果洛",
+        "adcode": "632600",
+        "update_time": 1670901356725
+      },
+      {
+        "data": {
+          "confirmed_count": 48,
+          "suspected_count": 0,
+          "cured_count": 47,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "海西州",
+        "adcode": "632800",
+        "update_time": 1670901356725
+      },
+      {
+        "data": {
+          "confirmed_count": 6,
+          "suspected_count": 0,
+          "cured_count": 5,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "海南州",
+        "adcode": "632500",
+        "update_time": 1670901356725
+      },
+      {
+        "data": {
+          "confirmed_count": 1,
+          "suspected_count": 0,
+          "cured_count": 1,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "黄南",
+        "adcode": "632300",
+        "update_time": 1670901356725
+      }
+    ]
+  },
+  {
+    "name": "香港",
+    "update_time": 1670981548103,
+    "adcode": "810000",
+    "comment": "",
+    "data": {
+      "confirmed_count": 478020,
+      "suspected_count": 181,
+      "cured_count": 103631,
+      "dead_count": 11021
+    },
+    "cities": []
+  },
+  {
+    "name": "黑龙江",
+    "update_time": 1671007719550,
+    "adcode": "230000",
+    "comment": "黑龙江卫健委未明确部分治愈病例的地市归属，因此各地市的现存确诊存在一定偏差。",
+    "data": {
+      "confirmed_count": 5389,
+      "suspected_count": 430,
+      "cured_count": 4984,
+      "dead_count": 13
+    },
+    "cities": [
+      {
+        "data": {
+          "confirmed_count": 2632,
+          "suspected_count": 8,
+          "cured_count": 2458,
+          "dead_count": 4
+        },
+        "comment": "",
+        "name": "哈尔滨",
+        "adcode": "230100",
+        "update_time": 1671007719550
+      },
+      {
+        "data": {
+          "confirmed_count": 187,
+          "suspected_count": 0,
+          "cured_count": 109,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "牡丹江",
+        "adcode": "231000",
+        "update_time": 1671007719550
+      },
+      {
+        "data": {
+          "confirmed_count": 364,
+          "suspected_count": 0,
+          "cured_count": 287,
+          "dead_count": 1
+        },
+        "comment": "",
+        "name": "齐齐哈尔",
+        "adcode": "230200",
+        "update_time": 1671007719550
+      },
+      {
+        "data": {
+          "confirmed_count": 252,
+          "suspected_count": 0,
+          "cured_count": 209,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "佳木斯",
+        "adcode": "230800",
+        "update_time": 1671007719550
+      },
+      {
+        "data": {
+          "confirmed_count": 44,
+          "suspected_count": 0,
+          "cured_count": 11,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "大兴安岭",
+        "adcode": "232700",
+        "update_time": 1671007719550
+      },
+      {
+        "data": {
+          "confirmed_count": 671,
+          "suspected_count": 0,
+          "cured_count": 637,
+          "dead_count": 4
+        },
+        "comment": "",
+        "name": "绥化",
+        "adcode": "231200",
+        "update_time": 1671007719550
+      },
+      {
+        "data": {
+          "confirmed_count": 352,
+          "suspected_count": 0,
+          "cured_count": 343,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "黑河",
+        "adcode": "231100",
+        "update_time": 1671007719550
+      },
+      {
+        "data": {
+          "confirmed_count": 14,
+          "suspected_count": 0,
+          "cured_count": 7,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "鹤岗",
+        "adcode": "230400",
+        "update_time": 1671007719550
+      },
+      {
+        "data": {
+          "confirmed_count": 63,
+          "suspected_count": 0,
+          "cured_count": 57,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "鸡西",
+        "adcode": "230300",
+        "update_time": 1671007719550
+      },
+      {
+        "data": {
+          "confirmed_count": 161,
+          "suspected_count": 0,
+          "cured_count": 156,
+          "dead_count": 1
+        },
+        "comment": "",
+        "name": "大庆",
+        "adcode": "230600",
+        "update_time": 1671007719550
+      },
+      {
+        "data": {
+          "confirmed_count": 24,
+          "suspected_count": 0,
+          "cured_count": 22,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "七台河",
+        "adcode": "230900",
+        "update_time": 1671007719550
+      },
+      {
+        "data": {
+          "confirmed_count": 68,
+          "suspected_count": 0,
+          "cured_count": 64,
+          "dead_count": 3
+        },
+        "comment": "",
+        "name": "双鸭山",
+        "adcode": "230500",
+        "update_time": 1671007719550
+      },
+      {
+        "data": {
+          "confirmed_count": 2,
+          "suspected_count": 0,
+          "cured_count": 2,
+          "dead_count": 0
+        },
+        "comment": "",
+        "name": "伊春",
+        "adcode": "230700",
+        "update_time": 1671007719550
+      }
+    ]
+  },
+  {
+    "name": "澳门",
+    "update_time": 1670981548103,
+    "adcode": "820000",
+    "comment": "确诊病例中含9例境外输入病例",
+    "data": {
+      "confirmed_count": 1142,
+      "suspected_count": 9,
+      "cured_count": 804,
+      "dead_count": 6
+    },
+    "cities": []
+  }
+]
